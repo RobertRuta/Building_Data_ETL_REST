@@ -43,6 +43,7 @@ s2.json
     * an item that has the same ```name``` of an exisitng entity
     * an item that has the same ```postcode``` of an exisitng entity
 * When matching by id, only the last processed ```id``` of an item is preserved and matched on future updates. So for example if an update of type S2 with ```id``` 1 comes in, which updates the existing entity that was last updated from type S1 with an ```id``` of 2, from now on matches will be done solely on ```id``` 1 coming in from S1. This only applies for matching by id, if the matching is done name or postcode, the id will be overwritten again.
+* New data sources might need to be added in the future with a similar format.
 
 ### Tips for a succesful submission ###
 
