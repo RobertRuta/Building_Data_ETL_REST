@@ -7,6 +7,6 @@ namespace ETLAthena.Core.Models
         public string? Address { get; set; }
         public string? Postcode { get; set; }
         public double[]? Coordinates { get; set; }
-        public int? FloorArea { get; set; }
+        public double? FloorArea { get; set; }
     }
 }
