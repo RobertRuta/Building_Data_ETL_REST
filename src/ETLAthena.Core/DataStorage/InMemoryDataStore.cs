@@ -17,13 +17,16 @@ namespace ETLAthena.Core.DataStorage
             return building;
         }
 
+        public IEnumerable<BuildingModel> GetAllBuildings()
+        {
+            return _buildings.Values;
+        }
+
         public void UpdateOrCreateBuilding(BuildingModel building)
         {
             if (building == null) return;
 
             _buildings[building.Id] = building;
         }
-
-        // Additional methods can be implemented as required.
     }
 }
