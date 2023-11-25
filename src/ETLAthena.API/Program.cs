@@ -8,10 +8,8 @@ using ETLAthena.Core.Services.Merging;
 using ETLAthena.Core.Services.Transformation;
 using ETLAthena.Core.Models;
 using ETLAthena.Core.DataStorage;
+using Newtonsoft.Json;
 using ETLAthena.API.Controllers;
-
-using System.Globalization;
-using System.IO;
 
 namespace ETLAthena.API;
 public class Program
@@ -69,7 +67,7 @@ public class Startup
         services.AddSingleton(appSettings);
     }
 
-    public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IDataStorageService dataStorageService, IDataIngestionService dataIngestionService, IS1Transformer s1Transformer)
     {
         if (env.IsDevelopment())
         {
@@ -82,5 +80,20 @@ public class Startup
         {
             endpoints.MapControllers(); // Map API controllers
         });
+        
+        LoadInitialS1Data(dataStorageService, dataIngestionService, s1Transformer);
+    }
+
+    private void LoadInitialS1Data(IDataStorageService dataStorageService, IDataIngestionService dataIngestionService, IS1Transformer s1Transformer)
+    {
+        var appSettings = new ApplicationSettings();
+        Configuration.GetSection("ApplicationSettings").Bind(appSettings);
+        string jsonPath = appSettings.LoadDataPath;
+
+        string s1Json = File.ReadAllText(jsonPath);
+
+        List<S1Model> s1Data = dataIngestionService.IngestBulkDataFromSourceS1(s1Json);
+        List<BuildingModel> buildings = s1Transformer.Transform(s1Data);
+        dataStorageService.UpdateOrCreateBuildings(buildings);
     }
 }
