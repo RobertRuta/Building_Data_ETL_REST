@@ -1,3 +1,5 @@
+using Newtonsoft.Json;
+
 namespace ETLAthena.Core.Models
 {
     public class S1Model
@@ -7,6 +9,8 @@ namespace ETLAthena.Core.Models
         public string? Address2 { get; set; }
         public double Lat { get; set; }
         public double Lon { get; set; }
+        
+        [JsonConverter(typeof(SafeIntConverter))]
         public int? FloorCount { get; set; }
     }
 }
