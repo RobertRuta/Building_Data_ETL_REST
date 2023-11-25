@@ -1,4 +1,4 @@
-namespace ETLAthena.Core.DataStore
+namespace ETLAthena.Core.DataStorage
 {
 
 }
