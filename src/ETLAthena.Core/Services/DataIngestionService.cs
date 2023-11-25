@@ -12,16 +12,18 @@ namespace ETLAthena.Core.Services
             _dataProcessingService = dataProcessingService;
         }
 
-        public void IngestDataFromSourceS1(string jsonData)
+        public S1Model IngestDataFromSourceS1(string jsonData)
         {
             var data = JsonConvert.DeserializeObject<S1Model>(jsonData);
             if (data != null)
             {
                 _dataProcessingService.ProcessDataFromSourceS1(data);
             }
+            
+            return data;
         }
 
-        public void IngestBulkDataFromSourceS1(string jsonData)
+        public List<S1Model> IngestBulkDataFromSourceS1(string jsonData)
         {
             var datalist = JsonConvert.DeserializeObject<List<S1Model>>(jsonData);
             if (datalist != null)
@@ -31,9 +33,11 @@ namespace ETLAthena.Core.Services
                     _dataProcessingService.ProcessDataFromSourceS1(data);
                 }
             }
+
+            return datalist;
         }
 
-        public void IngestDataFromSourceS2(string jsonData)
+        public S2Model IngestDataFromSourceS2(string jsonData)
         {
             var data = JsonConvert.DeserializeObject<S2Model>(jsonData);
             if (data != null)
@@ -41,9 +45,11 @@ namespace ETLAthena.Core.Services
                 
                 _dataProcessingService.ProcessDataFromSourceS2(data);
             }
+
+            return data;
         }
 
-        public void IngestBulkDataFromSourceS2(string jsonData)
+        public List<S2Model> IngestBulkDataFromSourceS2(string jsonData)
         {
             var datalist = JsonConvert.DeserializeObject<List<S2Model>>(jsonData);
             if (datalist != null)
@@ -53,6 +59,8 @@ namespace ETLAthena.Core.Services
                     _dataProcessingService.ProcessDataFromSourceS2(data);
                 }
             }
+            
+            return datalist;
         }
     }
 }
