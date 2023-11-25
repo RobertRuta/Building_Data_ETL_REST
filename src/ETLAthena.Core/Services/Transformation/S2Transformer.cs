@@ -18,5 +18,16 @@ namespace ETLAthena.Core.Services.Transformation
                 DataSource = "S2",
             };
         }
+
+        public List<BuildingModel> Transform(List<S2Model> datalist) 
+        {
+            List<BuildingModel> buildings = new List<BuildingModel>();
+            foreach (S2Model data in datalist)
+            {
+                buildings.Add(Transform(data));
+            }
+
+            return buildings;
+        }
     }
 }

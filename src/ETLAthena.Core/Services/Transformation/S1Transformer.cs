@@ -1,3 +1,4 @@
+using System.ComponentModel;
 using ETLAthena.Core.Models;
 
 namespace ETLAthena.Core.Services.Transformation
@@ -17,6 +18,17 @@ namespace ETLAthena.Core.Services.Transformation
                 FloorArea = null,
                 DataSource = "S1",
             };
+        }
+
+        public List<BuildingModel> Transform(List<S1Model> datalist) 
+        {
+            List<BuildingModel> buildings = new List<BuildingModel>();
+            foreach (S1Model data in datalist)
+            {
+                buildings.Add(Transform(data));
+            }
+
+            return buildings;
         }
     }
 }
