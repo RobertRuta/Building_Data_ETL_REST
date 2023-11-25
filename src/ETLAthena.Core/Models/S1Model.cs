@@ -1,4 +1,4 @@
-namespace ETLAthena.Core.Model
+namespace ETLAthena.Core.Models
 {
     public class S1Model
     {
