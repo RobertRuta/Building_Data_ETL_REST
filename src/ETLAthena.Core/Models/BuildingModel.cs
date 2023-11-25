@@ -9,7 +9,7 @@ namespace ETLAthena.Core.Models
         public double? Latitude { get; set; }
         public double? Longitude { get; set; }
         public int? FloorCount { get; set; }
-        public int? FloorArea { get; set; }
+        public double? FloorArea { get; set; }
         public string? DataSource { get; set; } // To track the source of the last update
     }
 }
