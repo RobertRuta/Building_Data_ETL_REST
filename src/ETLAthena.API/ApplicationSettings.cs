@@ -1,4 +1,4 @@
 public class ApplicationSettings
 {
-    public string SampleDataPath { get; set; } = string.Empty;
+    public string LoadDataPath { get; set; } = string.Empty;
 }
