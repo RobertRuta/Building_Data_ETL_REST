@@ -1,6 +1,20 @@
-# Savills tech test #
+## The Implementation ##
 
-### The problem ###
+This section presents the implemented solution of the problem stated in the next section.
+
+### Structure ###
+
+The project structure takes the form of three primary components: the core component, the api component and the tests component.
+
+The Core contains the business logic, data models, services and utility functions; in essence, the core functionality of the project. The core component is designed to be independent of the user interface or API layers, allowing it to be reusable and testable. It also contains Validation, Transformation and Merging subcomponents that house the specific logic for data manipulation split by the data model it peratins to.
+
+The API component serves the Core functionality to a network via a RESTful API. It handles the HTTP requests and responses.
+
+Finally the Core.Tests component contains tests for the Core component.
+
+
+
+## The problem ##
 
 You are tasked with writing an ETL (extract-transform-load) system that ingests building data from different sources. Some sources use a push model (example: a service pushes a json file to S3) and some use a pull model (an API call to an external service). After processing, this data needs to be stored in some sort of data store (you could use a SQL database if you want, but some sort of file or memory store is perfectly fine, taking into account the limited time)
 

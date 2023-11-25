@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETLAthena.Core", "ETLAthena.Core\ETLAthena.Core.csproj", "{B5D9E5FE-505F-4C55-B562-60A2E102DD71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETLAthena.API", "ETLAthena.API\ETLAthena.API.csproj", "{6A6A3BE3-51EA-4257-8F5A-EAE37BE31671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETLAthena.Core.Tests", "ETLAthena.Core.Tests\ETLAthena.Core.Tests.csproj", "{9F2BA456-45DF-413F-BEFD-427BE40F2819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D9E5FE-505F-4C55-B562-60A2E102DD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D9E5FE-505F-4C55-B562-60A2E102DD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D9E5FE-505F-4C55-B562-60A2E102DD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D9E5FE-505F-4C55-B562-60A2E102DD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6A3BE3-51EA-4257-8F5A-EAE37BE31671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6A3BE3-51EA-4257-8F5A-EAE37BE31671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6A3BE3-51EA-4257-8F5A-EAE37BE31671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6A3BE3-51EA-4257-8F5A-EAE37BE31671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2BA456-45DF-413F-BEFD-427BE40F2819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2BA456-45DF-413F-BEFD-427BE40F2819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2BA456-45DF-413F-BEFD-427BE40F2819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2BA456-45DF-413F-BEFD-427BE40F2819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
