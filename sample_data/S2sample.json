@@ -1,0 +1,2202 @@
+[
+    {
+        "Id": "430177",
+        "Name": "Matalan",
+        "Address": "Winwick Rd",
+        "Postcode": "WA2 7",
+        "FloorArea": "2928.1151",
+        "Coordinates": [
+            53.39945,
+            -2.59523
+        ]
+    },
+    {
+        "Id": "430196",
+        "Name": "Ramparts Business Park Unit 3D",
+        "Address": "A1",
+        "Postcode": "TD15 2",
+        "FloorArea": "351.9981",
+        "Coordinates": [
+            55.73162,
+            -1.98947
+        ]
+    },
+    {
+        "Id": "430198",
+        "Name": "Comet Distribution Centre",
+        "Address": "Edinburgh Way",
+        "Postcode": "CM20 2",
+        "FloorArea": "35299.1201",
+        "Coordinates": [
+            51.78289,
+            0.1133
+        ]
+    },
+    {
+        "Id": "430732",
+        "Name": "Station Plaza",
+        "Address": "9 Station Plz",
+        "Postcode": "LS29 6",
+        "FloorArea": "4180.5",
+        "Coordinates": [
+            53.8911,
+            -1.7329
+        ]
+    },
+    {
+        "Id": "430735",
+        "Name": "Somerfield Distribution Warehouse",
+        "Address": "Taunton Rd",
+        "Postcode": "TA6 6",
+        "FloorArea": "11281.2186",
+        "Coordinates": [
+            51.1199,
+            -2.99878
+        ]
+    },
+    {
+        "Id": "430849",
+        "Name": "Octavia House",
+        "Address": "54 Ayres St",
+        "Postcode": "SE1 1",
+        "FloorArea": "589.9806939",
+        "Coordinates": [
+            51.50346,
+            -0.0951
+        ]
+    },
+    {
+        "Id": "431859",
+        "Name": "162 Dundee St",
+        "Address": "162 Dundee St",
+        "Postcode": "EH11 1",
+        "FloorArea": "3642.0516",
+        "Coordinates": [
+            55.94229,
+            -3.21378
+        ]
+    },
+    {
+        "Id": "432032",
+        "Name": "Retail",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "432089",
+        "Name": "Wesley Square Shopping Centre",
+        "Address": "Edinburgh St",
+        "Postcode": "DN14 5",
+        "FloorArea": "6503",
+        "Coordinates": [
+            53.70485,
+            -0.87185
+        ]
+    },
+    {
+        "Id": "432511",
+        "Name": "Retail",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "432519",
+        "Name": "Sovereign House",
+        "Address": "Rhosili Rd",
+        "Postcode": "NN4 7",
+        "FloorArea": "13781.9937",
+        "Coordinates": [
+            52.22368,
+            -0.86774
+        ]
+    },
+    {
+        "Id": "432520",
+        "Name": "Cathcart Rd",
+        "Address": "Cathcart Rd",
+        "Postcode": "G73 2",
+        "FloorArea": "64747.584",
+        "Coordinates": [
+            55.8258,
+            -4.22472
+        ]
+    },
+    {
+        "Id": "432521",
+        "Name": "The Mallings",
+        "Address": "112 Malling St",
+        "Postcode": "BN7 2",
+        "FloorArea": "979.2589",
+        "Coordinates": [
+            50.87771,
+            0.02127
+        ]
+    },
+    {
+        "Id": "430850",
+        "Name": "Visio House",
+        "Address": "64-74 East St",
+        "Postcode": "KT17 1",
+        "FloorArea": "1528.5766",
+        "Coordinates": [
+            51.33637,
+            -0.26024
+        ]
+    },
+    {
+        "Id": "430851",
+        "Name": "Winchester Industrial",
+        "Address": "",
+        "Postcode": "SO23 9",
+        "FloorArea": "2099.931109",
+        "Coordinates": [
+            51.06294,
+            -1.3165
+        ]
+    },
+    {
+        "Id": "430877",
+        "Name": "Jurys Inn Brighton",
+        "Address": "101 Stroudley Rd",
+        "Postcode": "BN1 4",
+        "FloorArea": "",
+        "Coordinates": [
+            50.83149,
+            -0.14013
+        ]
+    },
+    {
+        "Id": "430878",
+        "Name": "Jurys Inn Liverpool",
+        "Address": "31 Keel Wharf",
+        "Postcode": "L3 4",
+        "FloorArea": "",
+        "Coordinates": [
+            53.39791,
+            -2.98985
+        ]
+    },
+    {
+        "Id": "430879",
+        "Name": "3 Brocks Way",
+        "Address": "3 Brocks Way",
+        "Postcode": "EH52 5",
+        "FloorArea": "650.7645",
+        "Coordinates": [
+            55.94235,
+            -3.45208
+        ]
+    },
+    {
+        "Id": "430880",
+        "Name": "Retail/Office",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "430199",
+        "Name": "Westgate Buildings",
+        "Address": "Commercial St",
+        "Postcode": "NP20 1",
+        "FloorArea": "3453.9291",
+        "Coordinates": [
+            51.58741,
+            -2.99671
+        ]
+    },
+    {
+        "Id": "430200",
+        "Name": "London House",
+        "Address": "271-273 King St",
+        "Postcode": "W6 9",
+        "FloorArea": "1426.1079",
+        "Coordinates": [
+            51.49313,
+            -0.23891
+        ]
+    },
+    {
+        "Id": "430269",
+        "Name": "Sovereign House",
+        "Address": "Rhosili Rd",
+        "Postcode": "NN4 7",
+        "FloorArea": "13781.9937",
+        "Coordinates": [
+            52.22368,
+            -0.86774
+        ]
+    },
+    {
+        "Id": "432528",
+        "Name": "Phoenix & Lion Way Retail Parks",
+        "Address": "Lion Way",
+        "Postcode": "SA7 9",
+        "FloorArea": "8825.5",
+        "Coordinates": [
+            51.65825,
+            -3.90854
+        ]
+    },
+    {
+        "Id": "432645",
+        "Name": "Oxford House",
+        "Address": "Oxford Row",
+        "Postcode": "LS1 3",
+        "FloorArea": "3087.1599",
+        "Coordinates": [
+            53.80029,
+            -1.55104
+        ]
+    },
+    {
+        "Id": "432647",
+        "Name": "275-281 King St",
+        "Address": "275-281 King St",
+        "Postcode": "W6 9",
+        "FloorArea": "1895.0671",
+        "Coordinates": [
+            51.49319,
+            -0.23893
+        ]
+    },
+    {
+        "Id": "432094",
+        "Name": "Danum House",
+        "Address": "51-57 St Sepulchre Gate",
+        "Postcode": "DN1 1",
+        "FloorArea": "2782.355",
+        "Coordinates": [
+            53.52209,
+            -1.13612
+        ]
+    },
+    {
+        "Id": "432123",
+        "Name": "Portcullis House",
+        "Address": "21 India St",
+        "Postcode": "G2 4",
+        "FloorArea": "9378.1621",
+        "Coordinates": [
+            55.86446,
+            -4.26976
+        ]
+    },
+    {
+        "Id": "432197",
+        "Name": "15 Berkeley Street",
+        "Address": "15 Berkeley St",
+        "Postcode": "W1J 8",
+        "FloorArea": "3734.6729",
+        "Coordinates": [
+            51.50846,
+            -0.14329
+        ]
+    },
+    {
+        "Id": "430884",
+        "Name": "63 St Jamess St",
+        "Address": "63 St Jamess St",
+        "Postcode": "SW1A 1",
+        "FloorArea": "2114.9614",
+        "Coordinates": [
+            51.50637,
+            -0.13935
+        ]
+    },
+    {
+        "Id": "430891",
+        "Name": "Rotherham Primary Care Centre",
+        "Address": "Greasbrough Rd",
+        "Postcode": "S60 1",
+        "FloorArea": "5022.8243",
+        "Coordinates": [
+            53.43433,
+            -1.35865
+        ]
+    },
+    {
+        "Id": "430893",
+        "Name": "Monkswood Retail Park",
+        "Address": "Elder Way",
+        "Postcode": "SG1 1",
+        "FloorArea": "4273.4",
+        "Coordinates": [
+            51.89405,
+            -0.19816
+        ]
+    },
+    {
+        "Id": "430894",
+        "Name": "3 Tesco Retail Locations",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "430895",
+        "Name": "Tesco Stores",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "430897",
+        "Name": "Willow Brook Centre",
+        "Address": "Bradley Stoke Way",
+        "Postcode": "BS32 8",
+        "FloorArea": "21459.9",
+        "Coordinates": [
+            51.53645,
+            -2.54797
+        ]
+    },
+    {
+        "Id": "432650",
+        "Name": "Ellenborough House",
+        "Address": "Wellington St",
+        "Postcode": "GL50 1",
+        "FloorArea": "",
+        "Coordinates": [
+            51.89746,
+            -2.07412
+        ]
+    },
+    {
+        "Id": "432697",
+        "Name": "Shawfield Retail & Trade Park",
+        "Address": "Rutherglen Rd",
+        "Postcode": "G73 1",
+        "FloorArea": "8825.5",
+        "Coordinates": [
+            55.8372,
+            -4.229
+        ]
+    },
+    {
+        "Id": "432698",
+        "Name": "The Elizabeth",
+        "Address": "37 Eccleston Square",
+        "Postcode": "SW1V 4",
+        "FloorArea": "",
+        "Coordinates": [
+            51.49107,
+            -0.1451
+        ]
+    },
+    {
+        "Id": "432707",
+        "Name": "North Sea Turbonology Centre",
+        "Address": "A96",
+        "Postcode": "AB21 9",
+        "FloorArea": "1021.9",
+        "Coordinates": [
+            57.18676,
+            -2.20097
+        ]
+    },
+    {
+        "Id": "430270",
+        "Name": "The Royal Park",
+        "Address": "2-5 Westbourne Ter",
+        "Postcode": "W2 1",
+        "FloorArea": "",
+        "Coordinates": [
+            51.51407,
+            -0.17624
+        ]
+    },
+    {
+        "Id": "430284",
+        "Name": "The Cranley",
+        "Address": "10-12 Bina Gardens",
+        "Postcode": "SW5 0",
+        "FloorArea": "1598.9019",
+        "Coordinates": [
+            51.49139,
+            -0.18311
+        ]
+    },
+    {
+        "Id": "430289",
+        "Name": "15-17 Glenfield Rd",
+        "Address": "15-17 Glenfield Rd",
+        "Postcode": "G75 0",
+        "FloorArea": "1300.6",
+        "Coordinates": [
+            55.74999,
+            -4.15962
+        ]
+    },
+    {
+        "Id": "430292",
+        "Name": "The Stack (1 Unit)",
+        "Address": "McDonald Rd",
+        "Postcode": "EH7 4",
+        "FloorArea": "476.2983",
+        "Coordinates": [
+            55.96404,
+            -3.18546
+        ]
+    },
+    {
+        "Id": "430396",
+        "Name": "Axis Centre",
+        "Address": "Cleeve Rd",
+        "Postcode": "KT22 7",
+        "FloorArea": "11148",
+        "Coordinates": [
+            51.30308,
+            -0.33656
+        ]
+    },
+    {
+        "Id": "430397",
+        "Name": "Vanwall Business Park",
+        "Address": "Vanwall Rd",
+        "Postcode": "SL6 4",
+        "FloorArea": "15174.1002",
+        "Coordinates": [
+            51.51145,
+            -0.74632
+        ]
+    },
+    {
+        "Id": "430432",
+        "Name": "The Cadogan",
+        "Address": "75 Sloane St",
+        "Postcode": "SW1X 0",
+        "FloorArea": "",
+        "Coordinates": [
+            51.49694,
+            -0.15926
+        ]
+    },
+    {
+        "Id": "432709",
+        "Name": "Durley House",
+        "Address": "115 Sloane St",
+        "Postcode": "SW1X 0",
+        "FloorArea": "",
+        "Coordinates": [
+            51.49471,
+            -0.15879
+        ]
+    },
+    {
+        "Id": "432713",
+        "Name": "Industrial",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "44503.3734",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "432749",
+        "Name": "Oyster Royston House",
+        "Address": "34 Upper Queen St",
+        "Postcode": "BT1 6",
+        "FloorArea": "",
+        "Coordinates": [
+            54.59681,
+            -5.93331
+        ]
+    },
+    {
+        "Id": "432805",
+        "Name": "ACS House",
+        "Address": "242-244 St John St",
+        "Postcode": "EC1V 4",
+        "FloorArea": "410.9896",
+        "Coordinates": [
+            51.52579,
+            -0.10366
+        ]
+    },
+    {
+        "Id": "432207",
+        "Name": "Ruth Pitter House",
+        "Address": "20-25 Glasshouse Yard",
+        "Postcode": "EC1M 6",
+        "FloorArea": "583.9694",
+        "Coordinates": [
+            51.52149,
+            -0.09793
+        ]
+    },
+    {
+        "Id": "432216",
+        "Name": "10-11 Clerkenwell Green",
+        "Address": "10-11 Clerkenwell Green",
+        "Postcode": "EC1R 0",
+        "FloorArea": "985.8548",
+        "Coordinates": [
+            51.52299,
+            -0.10473
+        ]
+    },
+    {
+        "Id": "432219",
+        "Name": "Industrial",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "20571",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "432221",
+        "Name": "123 Buckingham Palace Rd",
+        "Address": "123 Buckingham Palace Rd",
+        "Postcode": "SW1W 9",
+        "FloorArea": "18858.7",
+        "Coordinates": [
+            51.49349,
+            -0.14631
+        ]
+    },
+    {
+        "Id": "432224",
+        "Name": "15 Artillery Lane",
+        "Address": "15-25 Artillery Ln",
+        "Postcode": "EC2M 4",
+        "FloorArea": "1600.8528",
+        "Coordinates": [
+            51.51856,
+            -0.0783
+        ]
+    },
+    {
+        "Id": "432383",
+        "Name": "2 Tesco Distribution Units",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "432397",
+        "Name": "66-67 Sun Ct",
+        "Address": "66-67 Sun Ct",
+        "Postcode": "EC3V 3",
+        "FloorArea": "1675.2657",
+        "Coordinates": [
+            51.51358,
+            -0.0848
+        ]
+    },
+    {
+        "Id": "430907",
+        "Name": "Victoria Central",
+        "Address": "232 Vauxhall Bridge Rd",
+        "Postcode": "SW1V 1",
+        "FloorArea": "2111.8028",
+        "Coordinates": [
+            51.49422,
+            -0.14054
+        ]
+    },
+    {
+        "Id": "430908",
+        "Name": "Churchill House",
+        "Address": "160 New Bond St",
+        "Postcode": "W1S 2",
+        "FloorArea": "1320.2019",
+        "Coordinates": [
+            51.51049,
+            -0.14305
+        ]
+    },
+    {
+        "Id": "430909",
+        "Name": "Jurys Inn Southampton",
+        "Address": "Charlotte Pl",
+        "Postcode": "SO14 0",
+        "FloorArea": "",
+        "Coordinates": [
+            50.91073,
+            -1.40137
+        ]
+    },
+    {
+        "Id": "430910",
+        "Name": "Jurys Inn Plymouth",
+        "Address": "46-52 Exeter St",
+        "Postcode": "PL4 0",
+        "FloorArea": "",
+        "Coordinates": [
+            50.37149,
+            -4.13474
+        ]
+    },
+    {
+        "Id": "430911",
+        "Name": "Jurys Inn Newcastle",
+        "Address": "Scotswood Rd",
+        "Postcode": "NE1 4",
+        "FloorArea": "",
+        "Coordinates": [
+            54.96602,
+            -1.62214
+        ]
+    },
+    {
+        "Id": "430921",
+        "Name": "Sheffield Digital Campus",
+        "Address": "Pond St",
+        "Postcode": "S1 2",
+        "FloorArea": "55740",
+        "Coordinates": [
+            53.3808,
+            -1.4649
+        ]
+    },
+    {
+        "Id": "430463",
+        "Name": "5 Savile Row",
+        "Address": "5 Savile Row",
+        "Postcode": "W1S 3",
+        "FloorArea": "2944.0939",
+        "Coordinates": [
+            51.51052,
+            -0.13988
+        ]
+    },
+    {
+        "Id": "430493",
+        "Name": "The John Allen Centre",
+        "Address": "Between Towns Rd",
+        "Postcode": "OX4 3",
+        "FloorArea": "12866.65",
+        "Coordinates": [
+            51.73304,
+            -1.21758
+        ]
+    },
+    {
+        "Id": "430497",
+        "Name": "Jurys Inn Milton Keynes",
+        "Address": "Midsummer Blvd",
+        "Postcode": "MK9 2",
+        "FloorArea": "",
+        "Coordinates": [
+            52.03821,
+            -0.7638
+        ]
+    },
+    {
+        "Id": "432426",
+        "Name": "Jurys Inn Manchester",
+        "Address": "56 Great Bridgewater St",
+        "Postcode": "M1 5",
+        "FloorArea": "",
+        "Coordinates": [
+            53.47487,
+            -2.24607
+        ]
+    },
+    {
+        "Id": "432453",
+        "Name": "Jurys Inn Islington",
+        "Address": "60 Pentonville Rd",
+        "Postcode": "N1 9",
+        "FloorArea": "",
+        "Coordinates": [
+            51.53221,
+            -0.10937
+        ]
+    },
+    {
+        "Id": "432480",
+        "Name": "future Rolex HQ",
+        "Address": "1 Jubilee Way",
+        "Postcode": "ME19 4",
+        "FloorArea": "5574",
+        "Coordinates": [
+            51.28044,
+            0.40449
+        ]
+    },
+    {
+        "Id": "430923",
+        "Name": "40-42 Chapel Market",
+        "Address": "40-42 Chapel Market",
+        "Postcode": "N1 0",
+        "FloorArea": "",
+        "Coordinates": [
+            51.53392,
+            -0.1071
+        ]
+    },
+    {
+        "Id": "430925",
+        "Name": "Seven Stars Ind Estate - Units 1 - 7",
+        "Address": "Quinn Close",
+        "Postcode": "CV3 4",
+        "FloorArea": "15504.5455",
+        "Coordinates": [
+            52.39296,
+            -1.47819
+        ]
+    },
+    {
+        "Id": "430971",
+        "Name": "Monk Bretton Retail Parade",
+        "Address": "Castle Close",
+        "Postcode": "S71 2",
+        "FloorArea": "1385.3248",
+        "Coordinates": [
+            53.5616,
+            -1.4592
+        ]
+    },
+    {
+        "Id": "432806",
+        "Name": "27 Austin Friars",
+        "Address": "27 Austin Friars",
+        "Postcode": "EC2N 2",
+        "FloorArea": "959.968215",
+        "Coordinates": [
+            51.51511,
+            -0.08573
+        ]
+    },
+    {
+        "Id": "432807",
+        "Name": "Greenfield Business Centre Units 21-23",
+        "Address": "Greenfield Rd",
+        "Postcode": "SG8 5",
+        "FloorArea": "3200.4979",
+        "Coordinates": [
+            52.05303,
+            -0.03914
+        ]
+    },
+    {
+        "Id": "432866",
+        "Name": "Jurys Inn Chelsea",
+        "Address": "Imperial Rd",
+        "Postcode": "SW6 2",
+        "FloorArea": "",
+        "Coordinates": [
+            51.47429,
+            -0.18414
+        ]
+    },
+    {
+        "Id": "430498",
+        "Name": "Jurys Inn Birmingham",
+        "Address": "245 Broad St",
+        "Postcode": "B1 2",
+        "FloorArea": "",
+        "Coordinates": [
+            52.47669,
+            -1.91139
+        ]
+    },
+    {
+        "Id": "430499",
+        "Name": "Jurys Inn Belfast",
+        "Address": "Fisherwick Pl",
+        "Postcode": "BT1 6",
+        "FloorArea": "",
+        "Coordinates": [
+            54.59611,
+            -5.93496
+        ]
+    },
+    {
+        "Id": "430510",
+        "Name": "Chancerygate Business Centre Trafford Park",
+        "Address": "Mercury Way",
+        "Postcode": "M41 7",
+        "FloorArea": "2382.3276",
+        "Coordinates": [
+            53.46505,
+            -2.33448
+        ]
+    },
+    {
+        "Id": "430973",
+        "Name": "Minerva House",
+        "Address": "5 Montagu Close",
+        "Postcode": "SE1 9",
+        "FloorArea": "8500.35",
+        "Coordinates": [
+            51.50697,
+            -0.08981
+        ]
+    },
+    {
+        "Id": "430987",
+        "Name": "6-8 Tokenhouse Yard",
+        "Address": "6-8 Tokenhouse Yard",
+        "Postcode": "EC2R 7",
+        "FloorArea": "2601.2",
+        "Coordinates": [
+            51.51526,
+            -0.08816
+        ]
+    },
+    {
+        "Id": "430988",
+        "Name": "Stadium Court",
+        "Address": "Cradock Rd",
+        "Postcode": "LU4 0",
+        "FloorArea": "6152.1167",
+        "Coordinates": [
+            51.89014,
+            -0.4814
+        ]
+    },
+    {
+        "Id": "432910",
+        "Name": "Kirkleatham Business Park Units 1-5",
+        "Address": "Troisdorf Way",
+        "Postcode": "TS10 5",
+        "FloorArea": "6548.7997",
+        "Coordinates": [
+            54.58996,
+            -1.08918
+        ]
+    },
+    {
+        "Id": "432913",
+        "Name": "Walker Riverside Units 1-6",
+        "Address": "Fisher St",
+        "Postcode": "NE6 4",
+        "FloorArea": "6189.7412",
+        "Coordinates": [
+            54.97959,
+            -1.5387
+        ]
+    },
+    {
+        "Id": "432915",
+        "Name": "Jurys Inn Leeds",
+        "Address": "Kendell St",
+        "Postcode": "LS10 1",
+        "FloorArea": "",
+        "Coordinates": [
+            53.79341,
+            -1.53836
+        ]
+    },
+    {
+        "Id": "430513",
+        "Name": "Jurys Inn Heathrow",
+        "Address": "Eastern Perimeter Rd",
+        "Postcode": "TW6 2",
+        "FloorArea": "",
+        "Coordinates": [
+            51.46826,
+            -0.41923
+        ]
+    },
+    {
+        "Id": "430561",
+        "Name": "Jurys Inn Glasgow",
+        "Address": "80 Jamaica St",
+        "Postcode": "G1 4",
+        "FloorArea": "",
+        "Coordinates": [
+            55.85669,
+            -4.25754
+        ]
+    },
+    {
+        "Id": "430658",
+        "Name": "Ivax Quays",
+        "Address": "Albert Basin",
+        "Postcode": "E16 2",
+        "FloorArea": "13006",
+        "Coordinates": [
+            51.5065,
+            0.0739
+        ]
+    },
+    {
+        "Id": "430989",
+        "Name": "Axis BP Dev Site",
+        "Address": "M9",
+        "Postcode": "EH29 9",
+        "FloorArea": "16186.896",
+        "Coordinates": [
+            55.9578,
+            -3.4337
+        ]
+    },
+    {
+        "Id": "430996",
+        "Name": "Westgate House",
+        "Address": "25-29 Market St",
+        "Postcode": "HX1 1",
+        "FloorArea": "8546.8",
+        "Coordinates": [
+            53.72237,
+            -1.85849
+        ]
+    },
+    {
+        "Id": "430997",
+        "Name": "Bellway Industrial Estate Units 1-17",
+        "Address": "Whitley Rd",
+        "Postcode": "NE12 9",
+        "FloorArea": "7013.8571",
+        "Coordinates": [
+            55.01856,
+            -1.54278
+        ]
+    },
+    {
+        "Id": "430998",
+        "Name": "Oakhill Trading Estate Units 4-8",
+        "Address": "Euston St",
+        "Postcode": "LE2 7",
+        "FloorArea": "5323.0771",
+        "Coordinates": [
+            52.61569,
+            -1.13259
+        ]
+    },
+    {
+        "Id": "432917",
+        "Name": "Henwood Business Park",
+        "Address": "",
+        "Postcode": "TN23 1",
+        "FloorArea": "2733.3967",
+        "Coordinates": [
+            51.14647,
+            0.87502
+        ]
+    },
+    {
+        "Id": "432919",
+        "Name": "Jurys Inn Edinburgh",
+        "Address": "43 Jeffrey St",
+        "Postcode": "EH1 1",
+        "FloorArea": "",
+        "Coordinates": [
+            55.95113,
+            -3.18611
+        ]
+    },
+    {
+        "Id": "432921",
+        "Name": "Jurys Inn Croydon",
+        "Address": "Wellesley Rd",
+        "Postcode": "CR0 2",
+        "FloorArea": "",
+        "Coordinates": [
+            51.37619,
+            -0.09773
+        ]
+    },
+    {
+        "Id": "431055",
+        "Name": "Sovereign Park - Units 1-4",
+        "Address": "Laporte Way",
+        "Postcode": "LU4 8",
+        "FloorArea": "7005.9606",
+        "Coordinates": [
+            51.88779,
+            -0.44594
+        ]
+    },
+    {
+        "Id": "431086",
+        "Name": "Portland House",
+        "Address": "Bickenhill Ln",
+        "Postcode": "B37 7",
+        "FloorArea": "5499.820279",
+        "Coordinates": [
+            52.45802,
+            -1.72878
+        ]
+    },
+    {
+        "Id": "431089",
+        "Name": "Christian Salvesen Portfolio",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "430665",
+        "Name": "Albion Mills Retail Park",
+        "Address": "Ings Rd",
+        "Postcode": "WF2 9",
+        "FloorArea": "5136.8126",
+        "Coordinates": [
+            53.68031,
+            -1.50614
+        ]
+    },
+    {
+        "Id": "434449",
+        "Name": "Jewry House",
+        "Address": "12-13 Jewry St",
+        "Postcode": "SO23 8",
+        "FloorArea": "620.9436",
+        "Coordinates": [
+            51.06386,
+            -1.31635
+        ]
+    },
+    {
+        "Id": "434455",
+        "Name": "Iveridge Hall",
+        "Address": "Wakefield Rd",
+        "Postcode": "LS26 8",
+        "FloorArea": "395.4753",
+        "Coordinates": [
+            53.73472,
+            -1.45778
+        ]
+    },
+    {
+        "Id": "432973",
+        "Name": "fmr Avon Factory Dev Site",
+        "Address": "Nunn Mills Rd",
+        "Postcode": "NN4 8",
+        "FloorArea": "101168.1",
+        "Coordinates": [
+            52.23021,
+            -0.88571
+        ]
+    },
+    {
+        "Id": "432986",
+        "Name": "Dumfries Retail Park",
+        "Address": "Glasgow Rd",
+        "Postcode": "DG2 0",
+        "FloorArea": "8699.7134",
+        "Coordinates": [
+            55.07863,
+            -3.62176
+        ]
+    },
+    {
+        "Id": "433043",
+        "Name": "Sovereign House",
+        "Address": "227 Marsh Wall",
+        "Postcode": "E14 9",
+        "FloorArea": "6674.0289",
+        "Coordinates": [
+            51.49986,
+            -0.01105
+        ]
+    },
+    {
+        "Id": "431120",
+        "Name": "Somerfield Distribution Warehouse",
+        "Address": "Taunton Rd",
+        "Postcode": "TA6 6",
+        "FloorArea": "11281.2186",
+        "Coordinates": [
+            51.1199,
+            -2.99878
+        ]
+    },
+    {
+        "Id": "431250",
+        "Name": "Octavia House",
+        "Address": "54 Ayres St",
+        "Postcode": "SE1 1",
+        "FloorArea": "589.9806939",
+        "Coordinates": [
+            51.50346,
+            -0.0951
+        ]
+    },
+    {
+        "Id": "431298",
+        "Name": "162 Dundee St",
+        "Address": "162 Dundee St",
+        "Postcode": "EH11 1",
+        "FloorArea": "3642.0516",
+        "Coordinates": [
+            55.94229,
+            -3.21378
+        ]
+    },
+    {
+        "Id": "434456",
+        "Name": "Retail",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "434458",
+        "Name": "Wesley Square Shopping Centre",
+        "Address": "Edinburgh St",
+        "Postcode": "DN14 5",
+        "FloorArea": "6503",
+        "Coordinates": [
+            53.70485,
+            -0.87185
+        ]
+    },
+    {
+        "Id": "434459",
+        "Name": "Retail",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "434465",
+        "Name": "Sovereign House",
+        "Address": "Rhosili Rd",
+        "Postcode": "NN4 7",
+        "FloorArea": "13781.9937",
+        "Coordinates": [
+            52.22368,
+            -0.86774
+        ]
+    },
+    {
+        "Id": "433046",
+        "Name": "Cathcart Rd",
+        "Address": "Cathcart Rd",
+        "Postcode": "G73 2",
+        "FloorArea": "64747.584",
+        "Coordinates": [
+            55.8258,
+            -4.22472
+        ]
+    },
+    {
+        "Id": "433087",
+        "Name": "The Mallings",
+        "Address": "112 Malling St",
+        "Postcode": "BN7 2",
+        "FloorArea": "979.2589",
+        "Coordinates": [
+            50.87771,
+            0.02127
+        ]
+    },
+    {
+        "Id": "433107",
+        "Name": "Visio House",
+        "Address": "64-74 East St",
+        "Postcode": "KT17 1",
+        "FloorArea": "1528.5766",
+        "Coordinates": [
+            51.33637,
+            -0.26024
+        ]
+    },
+    {
+        "Id": "433136",
+        "Name": "Winchester Industrial",
+        "Address": "",
+        "Postcode": "SO23 9",
+        "FloorArea": "2099.931109",
+        "Coordinates": [
+            51.06294,
+            -1.3165
+        ]
+    },
+    {
+        "Id": "433149",
+        "Name": "Jurys Inn Brighton",
+        "Address": "101 Stroudley Rd",
+        "Postcode": "BN1 4",
+        "FloorArea": "",
+        "Coordinates": [
+            50.83149,
+            -0.14013
+        ]
+    },
+    {
+        "Id": "433151",
+        "Name": "Jurys Inn Liverpool",
+        "Address": "31 Keel Wharf",
+        "Postcode": "L3 4",
+        "FloorArea": "",
+        "Coordinates": [
+            53.39791,
+            -2.98985
+        ]
+    },
+    {
+        "Id": "431299",
+        "Name": "3 Brocks Way",
+        "Address": "3 Brocks Way",
+        "Postcode": "EH52 5",
+        "FloorArea": "650.7645",
+        "Coordinates": [
+            55.94235,
+            -3.45208
+        ]
+    },
+    {
+        "Id": "431303",
+        "Name": "Retail/Office",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "431328",
+        "Name": "Westgate Buildings",
+        "Address": "Commercial St",
+        "Postcode": "NP20 1",
+        "FloorArea": "3453.9291",
+        "Coordinates": [
+            51.58741,
+            -2.99671
+        ]
+    },
+    {
+        "Id": "431400",
+        "Name": "London House",
+        "Address": "271-273 King St",
+        "Postcode": "W6 9",
+        "FloorArea": "1426.1079",
+        "Coordinates": [
+            51.49313,
+            -0.23891
+        ]
+    },
+    {
+        "Id": "434469",
+        "Name": "Sovereign House",
+        "Address": "Rhosili Rd",
+        "Postcode": "NN4 7",
+        "FloorArea": "13781.9937",
+        "Coordinates": [
+            52.22368,
+            -0.86774
+        ]
+    },
+    {
+        "Id": "434476",
+        "Name": "Phoenix & Lion Way Retail Parks",
+        "Address": "Lion Way",
+        "Postcode": "SA7 9",
+        "FloorArea": "8825.5",
+        "Coordinates": [
+            51.65825,
+            -3.90854
+        ]
+    },
+    {
+        "Id": "434499",
+        "Name": "Oxford House",
+        "Address": "Oxford Row",
+        "Postcode": "LS1 3",
+        "FloorArea": "3087.1599",
+        "Coordinates": [
+            53.80029,
+            -1.55104
+        ]
+    },
+    {
+        "Id": "431401",
+        "Name": "275-281 King St",
+        "Address": "275-281 King St",
+        "Postcode": "W6 9",
+        "FloorArea": "1895.0671",
+        "Coordinates": [
+            51.49319,
+            -0.23893
+        ]
+    },
+    {
+        "Id": "431431",
+        "Name": "Danum House",
+        "Address": "51-57 St Sepulchre Gate",
+        "Postcode": "DN1 1",
+        "FloorArea": "2782.355",
+        "Coordinates": [
+            53.52209,
+            -1.13612
+        ]
+    },
+    {
+        "Id": "431439",
+        "Name": "Portcullis House",
+        "Address": "21 India St",
+        "Postcode": "G2 4",
+        "FloorArea": "9378.1621",
+        "Coordinates": [
+            55.86446,
+            -4.26976
+        ]
+    },
+    {
+        "Id": "431440",
+        "Name": "15 Berkeley Street",
+        "Address": "15 Berkeley St",
+        "Postcode": "W1J 8",
+        "FloorArea": "3734.6729",
+        "Coordinates": [
+            51.50846,
+            -0.14329
+        ]
+    },
+    {
+        "Id": "431442",
+        "Name": "63 St Jamess St",
+        "Address": "63 St Jamess St",
+        "Postcode": "SW1A 1",
+        "FloorArea": "2114.9614",
+        "Coordinates": [
+            51.50637,
+            -0.13935
+        ]
+    },
+    {
+        "Id": "431443",
+        "Name": "Rotherham Primary Care Centre",
+        "Address": "Greasbrough Rd",
+        "Postcode": "S60 1",
+        "FloorArea": "5022.8243",
+        "Coordinates": [
+            53.43433,
+            -1.35865
+        ]
+    },
+    {
+        "Id": "431444",
+        "Name": "Monkswood Retail Park",
+        "Address": "Elder Way",
+        "Postcode": "SG1 1",
+        "FloorArea": "4273.4",
+        "Coordinates": [
+            51.89405,
+            -0.19816
+        ]
+    },
+    {
+        "Id": "431445",
+        "Name": "3 Tesco Retail Locations",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "431447",
+        "Name": "Tesco Stores",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "431449",
+        "Name": "Willow Brook Centre",
+        "Address": "Bradley Stoke Way",
+        "Postcode": "BS32 8",
+        "FloorArea": "21459.9",
+        "Coordinates": [
+            51.53645,
+            -2.54797
+        ]
+    },
+    {
+        "Id": "431456",
+        "Name": "Ellenborough House",
+        "Address": "Wellington St",
+        "Postcode": "GL50 1",
+        "FloorArea": "",
+        "Coordinates": [
+            51.89746,
+            -2.07412
+        ]
+    },
+    {
+        "Id": "431457",
+        "Name": "Shawfield Retail & Trade Park",
+        "Address": "Rutherglen Rd",
+        "Postcode": "G73 1",
+        "FloorArea": "8825.5",
+        "Coordinates": [
+            55.8372,
+            -4.229
+        ]
+    },
+    {
+        "Id": "431476",
+        "Name": "The Elizabeth",
+        "Address": "37 Eccleston Square",
+        "Postcode": "SW1V 4",
+        "FloorArea": "",
+        "Coordinates": [
+            51.49107,
+            -0.1451
+        ]
+    },
+    {
+        "Id": "431497",
+        "Name": "North Sea Turbonology Centre",
+        "Address": "A96",
+        "Postcode": "AB21 9",
+        "FloorArea": "1021.9",
+        "Coordinates": [
+            57.18676,
+            -2.20097
+        ]
+    },
+    {
+        "Id": "431508",
+        "Name": "The Royal Park",
+        "Address": "2-5 Westbourne Ter",
+        "Postcode": "W2 1",
+        "FloorArea": "",
+        "Coordinates": [
+            51.51407,
+            -0.17624
+        ]
+    },
+    {
+        "Id": "431509",
+        "Name": "The Cranley",
+        "Address": "10-12 Bina Gardens",
+        "Postcode": "SW5 0",
+        "FloorArea": "1598.9019",
+        "Coordinates": [
+            51.49139,
+            -0.18311
+        ]
+    },
+    {
+        "Id": "432481",
+        "Name": "15-17 Glenfield Rd",
+        "Address": "15-17 Glenfield Rd",
+        "Postcode": "G75 0",
+        "FloorArea": "1300.6",
+        "Coordinates": [
+            55.74999,
+            -4.15962
+        ]
+    },
+    {
+        "Id": "432483",
+        "Name": "The Stack (1 Unit)",
+        "Address": "McDonald Rd",
+        "Postcode": "EH7 4",
+        "FloorArea": "476.2983",
+        "Coordinates": [
+            55.96404,
+            -3.18546
+        ]
+    },
+    {
+        "Id": "432486",
+        "Name": "Axis Centre",
+        "Address": "Cleeve Rd",
+        "Postcode": "KT22 7",
+        "FloorArea": "11148",
+        "Coordinates": [
+            51.30308,
+            -0.33656
+        ]
+    },
+    {
+        "Id": "432487",
+        "Name": "Vanwall Business Park",
+        "Address": "Vanwall Rd",
+        "Postcode": "SL6 4",
+        "FloorArea": "15174.1002",
+        "Coordinates": [
+            51.51145,
+            -0.74632
+        ]
+    },
+    {
+        "Id": "431510",
+        "Name": "The Cadogan",
+        "Address": "75 Sloane St",
+        "Postcode": "SW1X 0",
+        "FloorArea": "",
+        "Coordinates": [
+            51.49694,
+            -0.15926
+        ]
+    },
+    {
+        "Id": "431511",
+        "Name": "Durley House",
+        "Address": "115 Sloane St",
+        "Postcode": "SW1X 0",
+        "FloorArea": "",
+        "Coordinates": [
+            51.49471,
+            -0.15879
+        ]
+    },
+    {
+        "Id": "431520",
+        "Name": "Industrial",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "44503.3734",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "432488",
+        "Name": "Oyster Royston House",
+        "Address": "34 Upper Queen St",
+        "Postcode": "BT1 6",
+        "FloorArea": "",
+        "Coordinates": [
+            54.59681,
+            -5.93331
+        ]
+    },
+    {
+        "Id": "432492",
+        "Name": "ACS House",
+        "Address": "242-244 St John St",
+        "Postcode": "EC1V 4",
+        "FloorArea": "410.9896",
+        "Coordinates": [
+            51.52579,
+            -0.10366
+        ]
+    },
+    {
+        "Id": "432494",
+        "Name": "Ruth Pitter House",
+        "Address": "20-25 Glasshouse Yard",
+        "Postcode": "EC1M 6",
+        "FloorArea": "583.9694",
+        "Coordinates": [
+            51.52149,
+            -0.09793
+        ]
+    },
+    {
+        "Id": "432495",
+        "Name": "10-11 Clerkenwell Green",
+        "Address": "10-11 Clerkenwell Green",
+        "Postcode": "EC1R 0",
+        "FloorArea": "985.8548",
+        "Coordinates": [
+            51.52299,
+            -0.10473
+        ]
+    },
+    {
+        "Id": "431521",
+        "Name": "Industrial",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "20571",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "431551",
+        "Name": "123 Buckingham Palace Rd",
+        "Address": "123 Buckingham Palace Rd",
+        "Postcode": "SW1W 9",
+        "FloorArea": "18858.7",
+        "Coordinates": [
+            51.49349,
+            -0.14631
+        ]
+    },
+    {
+        "Id": "431559",
+        "Name": "15 Artillery Lane",
+        "Address": "15-25 Artillery Ln",
+        "Postcode": "EC2M 4",
+        "FloorArea": "1600.8528",
+        "Coordinates": [
+            51.51856,
+            -0.0783
+        ]
+    },
+    {
+        "Id": "434564",
+        "Name": "2 Tesco Distribution Units",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "434725",
+        "Name": "66-67 Sun Ct",
+        "Address": "66-67 Sun Ct",
+        "Postcode": "EC3V 3",
+        "FloorArea": "1675.2657",
+        "Coordinates": [
+            51.51358,
+            -0.0848
+        ]
+    },
+    {
+        "Id": "434726",
+        "Name": "Victoria Central",
+        "Address": "232 Vauxhall Bridge Rd",
+        "Postcode": "SW1V 1",
+        "FloorArea": "2111.8028",
+        "Coordinates": [
+            51.49422,
+            -0.14054
+        ]
+    },
+    {
+        "Id": "434728",
+        "Name": "Churchill House",
+        "Address": "160 New Bond St",
+        "Postcode": "W1S 2",
+        "FloorArea": "1320.2019",
+        "Coordinates": [
+            51.51049,
+            -0.14305
+        ]
+    },
+    {
+        "Id": "433152",
+        "Name": "Jurys Inn Southampton",
+        "Address": "Charlotte Pl",
+        "Postcode": "SO14 0",
+        "FloorArea": "",
+        "Coordinates": [
+            50.91073,
+            -1.40137
+        ]
+    },
+    {
+        "Id": "433153",
+        "Name": "Jurys Inn Plymouth",
+        "Address": "46-52 Exeter St",
+        "Postcode": "PL4 0",
+        "FloorArea": "",
+        "Coordinates": [
+            50.37149,
+            -4.13474
+        ]
+    },
+    {
+        "Id": "433155",
+        "Name": "Jurys Inn Newcastle",
+        "Address": "Scotswood Rd",
+        "Postcode": "NE1 4",
+        "FloorArea": "",
+        "Coordinates": [
+            54.96602,
+            -1.62214
+        ]
+    },
+    {
+        "Id": "431575",
+        "Name": "Sheffield Digital Campus",
+        "Address": "Pond St",
+        "Postcode": "S1 2",
+        "FloorArea": "55740",
+        "Coordinates": [
+            53.3808,
+            -1.4649
+        ]
+    },
+    {
+        "Id": "431608",
+        "Name": "5 Savile Row",
+        "Address": "5 Savile Row",
+        "Postcode": "W1S 3",
+        "FloorArea": "2944.0939",
+        "Coordinates": [
+            51.51052,
+            -0.13988
+        ]
+    },
+    {
+        "Id": "431612",
+        "Name": "The John Allen Centre",
+        "Address": "Between Towns Rd",
+        "Postcode": "OX4 3",
+        "FloorArea": "12866.65",
+        "Coordinates": [
+            51.73304,
+            -1.21758
+        ]
+    },
+    {
+        "Id": "433156",
+        "Name": "Jurys Inn Milton Keynes",
+        "Address": "Midsummer Blvd",
+        "Postcode": "MK9 2",
+        "FloorArea": "",
+        "Coordinates": [
+            52.03821,
+            -0.7638
+        ]
+    },
+    {
+        "Id": "433157",
+        "Name": "Jurys Inn Manchester",
+        "Address": "56 Great Bridgewater St",
+        "Postcode": "M1 5",
+        "FloorArea": "",
+        "Coordinates": [
+            53.47487,
+            -2.24607
+        ]
+    },
+    {
+        "Id": "433158",
+        "Name": "Jurys Inn Islington",
+        "Address": "60 Pentonville Rd",
+        "Postcode": "N1 9",
+        "FloorArea": "",
+        "Coordinates": [
+            51.53221,
+            -0.10937
+        ]
+    },
+    {
+        "Id": "434731",
+        "Name": "future Rolex HQ",
+        "Address": "1 Jubilee Way",
+        "Postcode": "ME19 4",
+        "FloorArea": "5574",
+        "Coordinates": [
+            51.28044,
+            0.40449
+        ]
+    },
+    {
+        "Id": "434732",
+        "Name": "40-42 Chapel Market",
+        "Address": "40-42 Chapel Market",
+        "Postcode": "N1 0",
+        "FloorArea": "",
+        "Coordinates": [
+            51.53392,
+            -0.1071
+        ]
+    },
+    {
+        "Id": "434733",
+        "Name": "Seven Stars Ind Estate - Units 1 - 7",
+        "Address": "Quinn Close",
+        "Postcode": "CV3 4",
+        "FloorArea": "15504.5455",
+        "Coordinates": [
+            52.39296,
+            -1.47819
+        ]
+    },
+    {
+        "Id": "431614",
+        "Name": "Monk Bretton Retail Parade",
+        "Address": "Castle Close",
+        "Postcode": "S71 2",
+        "FloorArea": "1385.3248",
+        "Coordinates": [
+            53.5616,
+            -1.4592
+        ]
+    },
+    {
+        "Id": "431642",
+        "Name": "27 Austin Friars",
+        "Address": "27 Austin Friars",
+        "Postcode": "EC2N 2",
+        "FloorArea": "959.968215",
+        "Coordinates": [
+            51.51511,
+            -0.08573
+        ]
+    },
+    {
+        "Id": "431672",
+        "Name": "Greenfield Business Centre Units 21-23",
+        "Address": "Greenfield Rd",
+        "Postcode": "SG8 5",
+        "FloorArea": "3200.4979",
+        "Coordinates": [
+            52.05303,
+            -0.03914
+        ]
+    },
+    {
+        "Id": "433159",
+        "Name": "Jurys Inn Chelsea",
+        "Address": "Imperial Rd",
+        "Postcode": "SW6 2",
+        "FloorArea": "",
+        "Coordinates": [
+            51.47429,
+            -0.18414
+        ]
+    },
+    {
+        "Id": "433161",
+        "Name": "Jurys Inn Birmingham",
+        "Address": "245 Broad St",
+        "Postcode": "B1 2",
+        "FloorArea": "",
+        "Coordinates": [
+            52.47669,
+            -1.91139
+        ]
+    },
+    {
+        "Id": "433162",
+        "Name": "Jurys Inn Belfast",
+        "Address": "Fisherwick Pl",
+        "Postcode": "BT1 6",
+        "FloorArea": "",
+        "Coordinates": [
+            54.59611,
+            -5.93496
+        ]
+    },
+    {
+        "Id": "434736",
+        "Name": "Chancerygate Business Centre Trafford Park",
+        "Address": "Mercury Way",
+        "Postcode": "M41 7",
+        "FloorArea": "2382.3276",
+        "Coordinates": [
+            53.46505,
+            -2.33448
+        ]
+    },
+    {
+        "Id": "434738",
+        "Name": "Minerva House",
+        "Address": "5 Montagu Close",
+        "Postcode": "SE1 9",
+        "FloorArea": "8500.35",
+        "Coordinates": [
+            51.50697,
+            -0.08981
+        ]
+    },
+    {
+        "Id": "434739",
+        "Name": "6-8 Tokenhouse Yard",
+        "Address": "6-8 Tokenhouse Yard",
+        "Postcode": "EC2R 7",
+        "FloorArea": "2601.2",
+        "Coordinates": [
+            51.51526,
+            -0.08816
+        ]
+    },
+    {
+        "Id": "431673",
+        "Name": "Stadium Court",
+        "Address": "Cradock Rd",
+        "Postcode": "LU4 0",
+        "FloorArea": "6152.1167",
+        "Coordinates": [
+            51.89014,
+            -0.4814
+        ]
+    },
+    {
+        "Id": "431674",
+        "Name": "Kirkleatham Business Park Units 1-5",
+        "Address": "Troisdorf Way",
+        "Postcode": "TS10 5",
+        "FloorArea": "6548.7997",
+        "Coordinates": [
+            54.58996,
+            -1.08918
+        ]
+    },
+    {
+        "Id": "431675",
+        "Name": "Walker Riverside Units 1-6",
+        "Address": "Fisher St",
+        "Postcode": "NE6 4",
+        "FloorArea": "6189.7412",
+        "Coordinates": [
+            54.97959,
+            -1.5387
+        ]
+    },
+    {
+        "Id": "433164",
+        "Name": "Jurys Inn Leeds",
+        "Address": "Kendell St",
+        "Postcode": "LS10 1",
+        "FloorArea": "",
+        "Coordinates": [
+            53.79341,
+            -1.53836
+        ]
+    },
+    {
+        "Id": "433165",
+        "Name": "Jurys Inn Heathrow",
+        "Address": "Eastern Perimeter Rd",
+        "Postcode": "TW6 2",
+        "FloorArea": "",
+        "Coordinates": [
+            51.46826,
+            -0.41923
+        ]
+    },
+    {
+        "Id": "433166",
+        "Name": "Jurys Inn Glasgow",
+        "Address": "80 Jamaica St",
+        "Postcode": "G1 4",
+        "FloorArea": "",
+        "Coordinates": [
+            55.85669,
+            -4.25754
+        ]
+    },
+    {
+        "Id": "434751",
+        "Name": "Ivax Quays",
+        "Address": "Albert Basin",
+        "Postcode": "E16 2",
+        "FloorArea": "13006",
+        "Coordinates": [
+            51.5065,
+            0.0739
+        ]
+    },
+    {
+        "Id": "434762",
+        "Name": "Axis BP Dev Site",
+        "Address": "M9",
+        "Postcode": "EH29 9",
+        "FloorArea": "16186.896",
+        "Coordinates": [
+            55.9578,
+            -3.4337
+        ]
+    },
+    {
+        "Id": "434796",
+        "Name": "Westgate House",
+        "Address": "25-29 Market St",
+        "Postcode": "HX1 1",
+        "FloorArea": "8546.8",
+        "Coordinates": [
+            53.72237,
+            -1.85849
+        ]
+    },
+    {
+        "Id": "431677",
+        "Name": "Bellway Industrial Estate Units 1-17",
+        "Address": "Whitley Rd",
+        "Postcode": "NE12 9",
+        "FloorArea": "7013.8571",
+        "Coordinates": [
+            55.01856,
+            -1.54278
+        ]
+    },
+    {
+        "Id": "431678",
+        "Name": "Oakhill Trading Estate Units 4-8",
+        "Address": "Euston St",
+        "Postcode": "LE2 7",
+        "FloorArea": "5323.0771",
+        "Coordinates": [
+            52.61569,
+            -1.13259
+        ]
+    },
+    {
+        "Id": "431679",
+        "Name": "Henwood Business Park",
+        "Address": "",
+        "Postcode": "TN23 1",
+        "FloorArea": "2733.3967",
+        "Coordinates": [
+            51.14647,
+            0.87502
+        ]
+    },
+    {
+        "Id": "433168",
+        "Name": "Jurys Inn Edinburgh",
+        "Address": "43 Jeffrey St",
+        "Postcode": "EH1 1",
+        "FloorArea": "",
+        "Coordinates": [
+            55.95113,
+            -3.18611
+        ]
+    },
+    {
+        "Id": "433172",
+        "Name": "Jurys Inn Croydon",
+        "Address": "Wellesley Rd",
+        "Postcode": "CR0 2",
+        "FloorArea": "",
+        "Coordinates": [
+            51.37619,
+            -0.09773
+        ]
+    },
+    {
+        "Id": "433184",
+        "Name": "Sovereign Park - Units 1-4",
+        "Address": "Laporte Way",
+        "Postcode": "LU4 8",
+        "FloorArea": "7005.9606",
+        "Coordinates": [
+            51.88779,
+            -0.44594
+        ]
+    },
+    {
+        "Id": "434827",
+        "Name": "Portland House",
+        "Address": "Bickenhill Ln",
+        "Postcode": "B37 7",
+        "FloorArea": "5499.820279",
+        "Coordinates": [
+            52.45802,
+            -1.72878
+        ]
+    },
+    {
+        "Id": "434925",
+        "Name": "Christian Salvesen Portfolio",
+        "Address": "",
+        "Postcode": "",
+        "FloorArea": "",
+        "Coordinates": [
+            55.37805,
+            -3.43597
+        ]
+    },
+    {
+        "Id": "435034",
+        "Name": "Albion Mills Retail Park",
+        "Address": "Ings Rd",
+        "Postcode": "WF2 9",
+        "FloorArea": "5136.8126",
+        "Coordinates": [
+            53.68031,
+            -1.50614
+        ]
+    },
+    {
+        "Id": "433188",
+        "Name": "Jewry House",
+        "Address": "12-13 Jewry St",
+        "Postcode": "SO23 8",
+        "FloorArea": "620.9436",
+        "Coordinates": [
+            51.06386,
+            -1.31635
+        ]
+    },
+    {
+        "Id": "433192",
+        "Name": "Iveridge Hall",
+        "Address": "Wakefield Rd",
+        "Postcode": "LS26 8",
+        "FloorArea": "395.4753",
+        "Coordinates": [
+            53.73472,
+            -1.45778
+        ]
+    },
+    {
+        "Id": "433224",
+        "Name": "fmr Avon Factory Dev Site",
+        "Address": "Nunn Mills Rd",
+        "Postcode": "NN4 8",
+        "FloorArea": "101168.1",
+        "Coordinates": [
+            52.23021,
+            -0.88571
+        ]
+    },
+    {
+        "Id": "435063",
+        "Name": "Dumfries Retail Park",
+        "Address": "Glasgow Rd",
+        "Postcode": "DG2 0",
+        "FloorArea": "8699.7134",
+        "Coordinates": [
+            55.07863,
+            -3.62176
+        ]
+    },
+    {
+        "Id": "435080",
+        "Name": "Sovereign House",
+        "Address": "227 Marsh Wall",
+        "Postcode": "E14 9",
+        "FloorArea": "6674.0289",
+        "Coordinates": [
+            51.49986,
+            -0.01105
+        ]
+    }
+]

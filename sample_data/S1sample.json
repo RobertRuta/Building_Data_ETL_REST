@@ -1,0 +1,1602 @@
+[
+    {
+        "Id": "430177",
+        "Address1": "The Square",
+        "Address2": "Moretonhampstead, South West, TQ13 8, South West, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "50.660852",
+        "Longitude": "-3.76498"
+    },
+    {
+        "Id": "430196",
+        "Address1": "11 Berkeley St",
+        "Address2": "London, London, W1J 8, Greater London, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "51.5081594",
+        "Longitude": "-0.1428097"
+    },
+    {
+        "Id": "430198",
+        "Address1": "Eddystone Rd",
+        "Address2": "Totton, South East, SO40 2, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "50.93432619",
+        "Longitude": "-1.507109761"
+    },
+    {
+        "Id": "430732",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "430735",
+        "Address1": "25-29 Causeyside St",
+        "Address2": "Paisley, Scotland, PA1 1, Scotland, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "55.8438056",
+        "Longitude": "-4.4232454"
+    },
+    {
+        "Id": "430849",
+        "Address1": "36 Mill St",
+        "Address2": "Alloa, Scotland, FK10 1, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "56.1147942",
+        "Longitude": "-3.7913155"
+    },
+    {
+        "Id": "431859",
+        "Address1": "Science Park S",
+        "Address2": "Warrington, North West, WA3 6, Manchester/NW, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "53.424983",
+        "Longitude": "-2.527087"
+    },
+    {
+        "Id": "432032",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "432089",
+        "Address1": "Trafalgar Pl",
+        "Address2": "Brighton, South East, BN1 4, South East, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "50.828983",
+        "Longitude": "-0.139687"
+    },
+    {
+        "Id": "432511",
+        "Address1": "Kent Rd",
+        "Address2": "Southampton, South East, SO17 2, South East, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "50.9279",
+        "Longitude": "-1.3836"
+    },
+    {
+        "Id": "432519",
+        "Address1": "11 Bowling Green Ln",
+        "Address2": "London, London, EC1R 0, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.5242934",
+        "Longitude": "-0.1074551"
+    },
+    {
+        "Id": "432520",
+        "Address1": "30-32 Grays Inn Rd",
+        "Address2": "London, London, EC1N 7, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.5192342",
+        "Longitude": "-0.1115854"
+    },
+    {
+        "Id": "432521",
+        "Address1": "13 Northburgh St",
+        "Address2": "London, London, EC1V 0, Greater London, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "51.5239475",
+        "Longitude": "-0.1001086"
+    },
+    {
+        "Id": "430850",
+        "Address1": "5 W Blackhall St",
+        "Address2": "Greenock, Scotland, PA15 1, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.9494478",
+        "Longitude": "-4.7607542"
+    },
+    {
+        "Id": "430851",
+        "Address1": "2-6 Leonard St",
+        "Address2": "Perth, Scotland, PH2 8, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "56.394539",
+        "Longitude": "-3.437296"
+    },
+    {
+        "Id": "430877",
+        "Address1": "Rye Close",
+        "Address2": "Fleet, South East, GU51 2, South East, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "51.299051",
+        "Longitude": "-0.823959"
+    },
+    {
+        "Id": "430878",
+        "Address1": "Colchester Rd",
+        "Address2": "Havering, London, RM3 8, Greater London, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.592558",
+        "Longitude": "0.215573"
+    },
+    {
+        "Id": "430879",
+        "Address1": "Hambridge Ln",
+        "Address2": "Newbury, South East, RG14 5, South East, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.3983896",
+        "Longitude": "-1.2916576"
+    },
+    {
+        "Id": "430880",
+        "Address1": "101 St Martins Ln",
+        "Address2": "London, London, WC2N 4, Greater London, United Kingdom",
+        "FloorCount": "7",
+        "Latitude": "51.5103665",
+        "Longitude": "-0.1271152"
+    },
+    {
+        "Id": "430199",
+        "Address1": "59-60 Pall Mall",
+        "Address2": "London, London, SW1A 1, Greater London, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "51.50552709",
+        "Longitude": "-0.137634394"
+    },
+    {
+        "Id": "430200",
+        "Address1": "161-179 Hallgate",
+        "Address2": "Cottingham, Yorkshire and The Humber, HU16 4, Yorkshire/NE, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "53.781858",
+        "Longitude": "-0.4155477"
+    },
+    {
+        "Id": "430269",
+        "Address1": "11 Thistle Place",
+        "Address2": "Aberdeen, Scotland, AB10 1, Scotland, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "57.1433487",
+        "Longitude": "-2.1121566"
+    },
+    {
+        "Id": "432528",
+        "Address1": "1 Newfoundland St",
+        "Address2": "Bristol, South West, BS2 9, South West, United Kingdom",
+        "FloorCount": "4",
+        "Latitude": "51.4601419",
+        "Longitude": "-2.5833149"
+    },
+    {
+        "Id": "432645",
+        "Address1": "12-22 Newhall St",
+        "Address2": "Birmingham, West Midlands, B3 2, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "10",
+        "Latitude": "52.481418",
+        "Longitude": "-1.902168"
+    },
+    {
+        "Id": "432647",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "432094",
+        "Address1": "Empress Approach",
+        "Address2": "London, London, W14 9, Greater London, United Kingdom",
+        "FloorCount": "31",
+        "Latitude": "51.487259",
+        "Longitude": "-0.199771"
+    },
+    {
+        "Id": "432123",
+        "Address1": "97 - 107 Hagley Road",
+        "Address2": "Birmingham, West Midlands, B16 8, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "52.471871",
+        "Longitude": "-1.930828"
+    },
+    {
+        "Id": "432197",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "430884",
+        "Address1": "Glencoe Rd",
+        "Address2": "Hillingdon, London, UB4 9, Greater London, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.523235",
+        "Longitude": "-0.387787"
+    },
+    {
+        "Id": "430891",
+        "Address1": "Imberhorne Ln",
+        "Address2": "East Grinstead, South East, RH19 1, South East, United Kingdom",
+        "FloorCount": "1,2",
+        "Latitude": "51.13532216",
+        "Longitude": "-0.038151741"
+    },
+    {
+        "Id": "430893",
+        "Address1": "Garrick Rd",
+        "Address2": "Barnet, London, NW4 1, Greater London, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "51.590489",
+        "Longitude": "-0.216524"
+    },
+    {
+        "Id": "430894",
+        "Address1": "109 High St",
+        "Address2": "Cheltenham, South West, GL52 2, South West, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "51.89942551",
+        "Longitude": "-2.07229948"
+    },
+    {
+        "Id": "430895",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "430897",
+        "Address1": "109-119 Queen St",
+        "Address2": "Cardiff, Wales, CF10 2, Wales, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.4829555",
+        "Longitude": "-3.1732195"
+    },
+    {
+        "Id": "432650",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "432697",
+        "Address1": "East Marsh",
+        "Address2": "Carmarthen, Wales, SA33 4, Wales, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.74423",
+        "Longitude": "-4.476492"
+    },
+    {
+        "Id": "432698",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "432707",
+        "Address1": "29 Lonmay Pl",
+        "Address2": "Glasgow, Scotland, G33 4, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.8657387",
+        "Longitude": "-4.1474347"
+    },
+    {
+        "Id": "430270",
+        "Address1": "46 Bath St",
+        "Address2": "Glasgow, Scotland, G2 1, Scotland, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "55.8638704",
+        "Longitude": "-4.255213"
+    },
+    {
+        "Id": "430284",
+        "Address1": "Tribune Way",
+        "Address2": "York, Yorkshire and The Humber, YO30 4, Yorkshire/NE, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "53.98546196",
+        "Longitude": "-1.092834539"
+    },
+    {
+        "Id": "430289",
+        "Address1": "8 Ruby Place",
+        "Address2": "Aberdeen, Scotland, AB10 1, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "57.14696",
+        "Longitude": "-2.106403"
+    },
+    {
+        "Id": "430292",
+        "Address1": "180 Great Portland St",
+        "Address2": "London, London, W1W 5, Greater London, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "51.521675",
+        "Longitude": "-0.143273"
+    },
+    {
+        "Id": "430396",
+        "Address1": "218 St John St",
+        "Address2": "London, London, EC1V 4, Greater London, United Kingdom",
+        "FloorCount": "4",
+        "Latitude": "51.5253195",
+        "Longitude": "-0.1036212"
+    },
+    {
+        "Id": "430397",
+        "Address1": "Standing Way",
+        "Address2": "Milton Keynes, South East, MK4 3, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.99186532",
+        "Longitude": "-0.785002652"
+    },
+    {
+        "Id": "430432",
+        "Address1": "Kingsclere Rd",
+        "Address2": "Basingstoke, South East, RG21 5, South East, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "51.272217",
+        "Longitude": "-1.100934"
+    },
+    {
+        "Id": "432709",
+        "Address1": "27 Lonmay Pl",
+        "Address2": "Glasgow, Scotland, G33 4, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.8657387",
+        "Longitude": "-4.1474347"
+    },
+    {
+        "Id": "432713",
+        "Address1": "19-21 Lonmay Pl",
+        "Address2": "Glasgow, Scotland, G33 4, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.865738",
+        "Longitude": "-4.1473279"
+    },
+    {
+        "Id": "432749",
+        "Address1": "Deanfoot Rd",
+        "Address2": "West Linton, Scotland, EH46 7, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.754681",
+        "Longitude": "-3.350523"
+    },
+    {
+        "Id": "432805",
+        "Address1": "Edward St",
+        "Address2": "Birmingham, West Midlands, B1 2, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "52.4815",
+        "Longitude": "-1.9127"
+    },
+    {
+        "Id": "432207",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "432216",
+        "Address1": "Penny St",
+        "Address2": "Blackburn, North West, BB1 6, Manchester/NW, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "53.75069",
+        "Longitude": "-2.478533"
+    },
+    {
+        "Id": "432219",
+        "Address1": "2-3 East St",
+        "Address2": "Chichester, South East, PO19 1, South East, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "50.8365749",
+        "Longitude": "-0.7782796"
+    },
+    {
+        "Id": "432221",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "432224",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "432383",
+        "Address1": "M74",
+        "Address2": "Moffat, Scotland, DG10 9, Scotland, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "55.32489634",
+        "Longitude": "-3.475799561"
+    },
+    {
+        "Id": "432397",
+        "Address1": "230 Blackfriars Rd",
+        "Address2": "London, London, SE1 0, Greater London, United Kingdom",
+        "FloorCount": "9",
+        "Latitude": "51.5059203",
+        "Longitude": "-0.1042284"
+    },
+    {
+        "Id": "430907",
+        "Address1": "15-25 Carlton Ct",
+        "Address2": "Glasgow, Scotland, G5 9, Scotland, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "55.8542707",
+        "Longitude": "-4.2577245"
+    },
+    {
+        "Id": "430908",
+        "Address1": "6 Wested Ln",
+        "Address2": "Swanley, South East, BR8 8, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.387629",
+        "Longitude": "0.189922"
+    },
+    {
+        "Id": "430909",
+        "Address1": "Courteney Rd",
+        "Address2": "Gillingham, South East, ME8 0, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.364235",
+        "Longitude": "0.580366"
+    },
+    {
+        "Id": "430910",
+        "Address1": "Mansfield Rd",
+        "Address2": "Mansfield, East Midlands, NG20 0, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "53.1972",
+        "Longitude": "-1.1629"
+    },
+    {
+        "Id": "430911",
+        "Address1": "22-23 Old Burlington St",
+        "Address2": "London, London, W1S 2, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.51125685",
+        "Longitude": "-0.141674791"
+    },
+    {
+        "Id": "430921",
+        "Address1": "Newmarket Rd",
+        "Address2": "Cambridge, East of England, CB5 8, East of England, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "52.210001",
+        "Longitude": "0.146855"
+    },
+    {
+        "Id": "430463",
+        "Address1": "134-152 Balham High Rd",
+        "Address2": "London, London, SW12 9, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.4449935",
+        "Longitude": "-0.1517774"
+    },
+    {
+        "Id": "430493",
+        "Address1": "Gemini Cres",
+        "Address2": "Dundee, Scotland, DD2 1, Scotland, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "56.46188754",
+        "Longitude": "-3.0505357"
+    },
+    {
+        "Id": "430497",
+        "Address1": "8 George St",
+        "Address2": "Armadale, Scotland, EH48 3, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.898028",
+        "Longitude": "-3.701989"
+    },
+    {
+        "Id": "432426",
+        "Address1": "Manchester Rd",
+        "Address2": "Bolton, North West, BL2 1, Manchester/NW, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "53.572703",
+        "Longitude": "-2.423161"
+    },
+    {
+        "Id": "432453",
+        "Address1": "Works Rd",
+        "Address2": "Letchworth, East of England, SG6 1, East of England, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.98289189",
+        "Longitude": "-0.216914234"
+    },
+    {
+        "Id": "432480",
+        "Address1": "Loyal Rd",
+        "Address2": "Alyth, Scotland, PH11 8, Scotland, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "56.627657",
+        "Longitude": "-3.228995"
+    },
+    {
+        "Id": "430923",
+        "Address1": "Worthington Way",
+        "Address2": "Burton upon Trent, West Midlands, DE14 1, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "52.804552",
+        "Longitude": "-1.630343"
+    },
+    {
+        "Id": "430925",
+        "Address1": "2 Lansdowne Rd",
+        "Address2": "Croydon, London, CR0 2, Greater London, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "51.37627029",
+        "Longitude": "-0.096522696"
+    },
+    {
+        "Id": "430971",
+        "Address1": "Houghton Hall Park",
+        "Address2": "Houghton Regis, East of England, LU5 5, East of England, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "51.9004067",
+        "Longitude": "-0.5092182"
+    },
+    {
+        "Id": "432806",
+        "Address1": "1 George Yard",
+        "Address2": "London, London, EC3V 9, Greater London, United Kingdom",
+        "FloorCount": "7",
+        "Latitude": "51.5128122",
+        "Longitude": "-0.0855183"
+    },
+    {
+        "Id": "432807",
+        "Address1": "130 Jermyn St",
+        "Address2": "London, London, SW1Y 4, Greater London, United Kingdom",
+        "FloorCount": "7",
+        "Latitude": "51.5094808",
+        "Longitude": "-0.1331622"
+    },
+    {
+        "Id": "432866",
+        "Address1": "120 London Wall",
+        "Address2": "London, London, EC2Y 9, Greater London, United Kingdom",
+        "FloorCount": "16",
+        "Latitude": "51.5178",
+        "Longitude": "-0.0896"
+    },
+    {
+        "Id": "430498",
+        "Address1": "52 Dockhead St",
+        "Address2": "Saltcoats, Scotland, KA21 5, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.6327612",
+        "Longitude": "-4.786483"
+    },
+    {
+        "Id": "430499",
+        "Address1": "29 Dockhead St",
+        "Address2": "Saltcoats, Scotland, KA21 5, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.6330444",
+        "Longitude": "-4.7870752"
+    },
+    {
+        "Id": "430510",
+        "Address1": "Westerton Rd",
+        "Address2": "Broxburn, Scotland, EH52 5, Scotland, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "55.937432",
+        "Longitude": "-3.446129"
+    },
+    {
+        "Id": "430973",
+        "Address1": "2 St Georges Way",
+        "Address2": "Leicester, East Midlands, LE1 1, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "52.63224",
+        "Longitude": "-1.1272116"
+    },
+    {
+        "Id": "430987",
+        "Address1": "18-19 Sidney St",
+        "Address2": "Cambridge, East of England, CB2 3, East of England, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "52.206548",
+        "Longitude": "0.120329"
+    },
+    {
+        "Id": "430988",
+        "Address1": "Melford Rd",
+        "Address2": "Bellshill, Scotland, ML4 3, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.82553",
+        "Longitude": "-4.043819"
+    },
+    {
+        "Id": "432910",
+        "Address1": "Springfield St",
+        "Address2": "Market Harborough, East Midlands, LE16 8, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "52.47590941",
+        "Longitude": "-0.917363272"
+    },
+    {
+        "Id": "432913",
+        "Address1": "51-55 Above Bar St",
+        "Address2": "Southampton, South East, SO14 7, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "50.9044253",
+        "Longitude": "-1.4047026"
+    },
+    {
+        "Id": "432915",
+        "Address1": "Queensway",
+        "Address2": "Southampton, South East, SO14 3, South East, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "50.902036",
+        "Longitude": "-1.400009"
+    },
+    {
+        "Id": "430513",
+        "Address1": "79 Murraygate",
+        "Address2": "Dundee, Scotland, DD1 2, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "56.463049",
+        "Longitude": "-2.9681587"
+    },
+    {
+        "Id": "430561",
+        "Address1": "Ehringshausen Way",
+        "Address2": "Haverhill, East of England, CB9 0, East of England, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "52.0791",
+        "Longitude": "0.4463"
+    },
+    {
+        "Id": "430658",
+        "Address1": "32 Melville St",
+        "Address2": "Edinburgh, Scotland, EH3 7, Scotland, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "55.9499604",
+        "Longitude": "-3.2127027"
+    },
+    {
+        "Id": "430989",
+        "Address1": "Queensferry Rd",
+        "Address2": "Dunfermline, Scotland, KY11 8, Scotland, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "56.048778",
+        "Longitude": "-3.430452"
+    },
+    {
+        "Id": "430996",
+        "Address1": "130 High St",
+        "Address2": "Cheltenham, South West, GL50 1, South West, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "51.8997213",
+        "Longitude": "-2.0729973"
+    },
+    {
+        "Id": "430997",
+        "Address1": "23-23A Petty Cury",
+        "Address2": "Cambridge, East of England, CB2 3, East of England, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "52.205236",
+        "Longitude": "0.120168"
+    },
+    {
+        "Id": "430998",
+        "Address1": "1-7 Market St",
+        "Address2": "Leicester, East Midlands, LE1 5, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "52.6333464",
+        "Longitude": "-1.1340161"
+    },
+    {
+        "Id": "432917",
+        "Address1": "3-5 St Martins Sq",
+        "Address2": "Leicester, East Midlands, LE1 5, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "52.6346893",
+        "Longitude": "-1.1354061"
+    },
+    {
+        "Id": "432919",
+        "Address1": "363-367 Oxford St",
+        "Address2": "London, London, W1C 2, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.5142651",
+        "Longitude": "-0.1484849"
+    },
+    {
+        "Id": "432921",
+        "Address1": "16-18 Monument St",
+        "Address2": "London, London, EC3R 8, Greater London, United Kingdom",
+        "FloorCount": "7",
+        "Latitude": "51.509983",
+        "Longitude": "-0.086051"
+    },
+    {
+        "Id": "431055",
+        "Address1": "Precedent Dr",
+        "Address2": "Milton Keynes, South East, MK13 8, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "52.04381557",
+        "Longitude": "-0.780660508"
+    },
+    {
+        "Id": "431086",
+        "Address1": "Boulton Road",
+        "Address2": "Reading, South East, RG2 0, South East, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.437108",
+        "Longitude": "-0.973299"
+    },
+    {
+        "Id": "431089",
+        "Address1": "M25",
+        "Address2": "Purfleet, East of England, RM19 1, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.481517",
+        "Longitude": "0.256759"
+    },
+    {
+        "Id": "430665",
+        "Address1": "Dyce Dr",
+        "Address2": "Aberdeen, Scotland, AB21 0, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "57.206688",
+        "Longitude": "-2.213527"
+    },
+    {
+        "Id": "434449",
+        "Address1": "Watermill Wy",
+        "Address2": "Merton, London, SW19 2, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.4132821",
+        "Longitude": "-0.1827394"
+    },
+    {
+        "Id": "434455",
+        "Address1": "Winwick Rd",
+        "Address2": "Warrington, North West, WA2 7, Manchester/NW, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "53.399449",
+        "Longitude": "-2.595226"
+    },
+    {
+        "Id": "432973",
+        "Address1": "A1",
+        "Address2": "Berwick upon Tweed, North East, TD15 2, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.731624",
+        "Longitude": "-1.989471"
+    },
+    {
+        "Id": "432986",
+        "Address1": "Edinburgh Way",
+        "Address2": "Harlow, East of England, CM20 2, East of England, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.78288762",
+        "Longitude": "0.113298476"
+    },
+    {
+        "Id": "433043",
+        "Address1": "9 Station Plz",
+        "Address2": "Ilkley, Yorkshire and The Humber, LS29 6, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "53.8911",
+        "Longitude": "-1.7329"
+    },
+    {
+        "Id": "431120",
+        "Address1": "Taunton Rd",
+        "Address2": "Bridgwater, South West, TA6 6, South West, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.119899",
+        "Longitude": "-2.998782"
+    },
+    {
+        "Id": "431250",
+        "Address1": "54 Ayres St",
+        "Address2": "London, London, SE1 1, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.5034642",
+        "Longitude": "-0.0951005"
+    },
+    {
+        "Id": "431298",
+        "Address1": "162 Dundee St",
+        "Address2": "Edinburgh, Scotland, EH11 1, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.942291",
+        "Longitude": "-3.21378"
+    },
+    {
+        "Id": "434456",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "434458",
+        "Address1": "Edinburgh St",
+        "Address2": "Goole, Yorkshire and The Humber, DN14 5, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "53.704849",
+        "Longitude": "-0.871847"
+    },
+    {
+        "Id": "434459",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "434465",
+        "Address1": "Rhosili Rd",
+        "Address2": "Northampton, East Midlands, NN4 7, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "52.22368041",
+        "Longitude": "-0.867741636"
+    },
+    {
+        "Id": "433046",
+        "Address1": "Cathcart Rd",
+        "Address2": "Rutherglen, Scotland, G73 2, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.825795",
+        "Longitude": "-4.224724"
+    },
+    {
+        "Id": "433087",
+        "Address1": "112 Malling St",
+        "Address2": "Lewes, South East, BN7 2, South East, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "50.87771",
+        "Longitude": "0.0212698"
+    },
+    {
+        "Id": "433107",
+        "Address1": "64-74 East St",
+        "Address2": "Epsom, South East, KT17 1, South East, United Kingdom",
+        "FloorCount": "4",
+        "Latitude": "51.33637198",
+        "Longitude": "-0.260242636"
+    },
+    {
+        "Id": "433136",
+        "Address1": "",
+        "Address2": "Winchester, South East, SO23 9, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.06294",
+        "Longitude": "-1.316504"
+    },
+    {
+        "Id": "433149",
+        "Address1": "101 Stroudley Rd",
+        "Address2": "Brighton, South East, BN1 4, South East, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "50.8314879",
+        "Longitude": "-0.1401264"
+    },
+    {
+        "Id": "433151",
+        "Address1": "31 Keel Wharf",
+        "Address2": "Liverpool, North West, L3 4, Manchester/NW, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "53.3979105",
+        "Longitude": "-2.9898509"
+    },
+    {
+        "Id": "431299",
+        "Address1": "3 Brocks Way",
+        "Address2": "Broxburn, Scotland, EH52 5, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.942352",
+        "Longitude": "-3.452084"
+    },
+    {
+        "Id": "431303",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "431328",
+        "Address1": "Commercial St",
+        "Address2": "Newport, Wales, NP20 1, Wales, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "51.587407",
+        "Longitude": "-2.996714"
+    },
+    {
+        "Id": "431400",
+        "Address1": "271-273 King St",
+        "Address2": "London, London, W6 9, Greater London, United Kingdom",
+        "FloorCount": "4",
+        "Latitude": "51.493132",
+        "Longitude": "-0.23891"
+    },
+    {
+        "Id": "434469",
+        "Address1": "Rhosili Rd",
+        "Address2": "Northampton, East Midlands, NN4 7, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "52.22368041",
+        "Longitude": "-0.867741636"
+    },
+    {
+        "Id": "434476",
+        "Address1": "Lion Way",
+        "Address2": "Swansea, Wales, SA7 9, Wales, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.658248",
+        "Longitude": "-3.908536"
+    },
+    {
+        "Id": "434499",
+        "Address1": "Oxford Row",
+        "Address2": "Leeds, Yorkshire and The Humber, LS1 3, Yorkshire/NE, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "53.800287",
+        "Longitude": "-1.5510388"
+    },
+    {
+        "Id": "431401",
+        "Address1": "275-281 King St",
+        "Address2": "London, London, W6 9, Greater London, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "51.4931859",
+        "Longitude": "-0.2389275"
+    },
+    {
+        "Id": "431431",
+        "Address1": "51-57 St Sepulchre Gate",
+        "Address2": "Doncaster, Yorkshire and The Humber, DN1 1, Yorkshire/NE, United Kingdom",
+        "FloorCount": "4",
+        "Latitude": "53.5220854",
+        "Longitude": "-1.1361212"
+    },
+    {
+        "Id": "431439",
+        "Address1": "21 India St",
+        "Address2": "Glasgow, Scotland, G2 4, Scotland, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "55.864458",
+        "Longitude": "-4.269761"
+    },
+    {
+        "Id": "431440",
+        "Address1": "15 Berkeley St",
+        "Address2": "London, London, W1J 8, Greater London, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "51.50846138",
+        "Longitude": "-0.143285027"
+    },
+    {
+        "Id": "431442",
+        "Address1": "63 St Jamess St",
+        "Address2": "London, London, SW1A 1, Greater London, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.5063746",
+        "Longitude": "-0.139346"
+    },
+    {
+        "Id": "431443",
+        "Address1": "Greasbrough Rd",
+        "Address2": "Rotherham, Yorkshire and The Humber, S60 1, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "53.434332",
+        "Longitude": "-1.358652"
+    },
+    {
+        "Id": "431444",
+        "Address1": "Elder Way",
+        "Address2": "Stevenage, East of England, SG1 1, East of England, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.894053",
+        "Longitude": "-0.198162"
+    },
+    {
+        "Id": "431445",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "431447",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "431449",
+        "Address1": "Bradley Stoke Way",
+        "Address2": "Bristol, South West, BS32 8, South West, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "51.536448",
+        "Longitude": "-2.547972"
+    },
+    {
+        "Id": "431456",
+        "Address1": "Wellington St",
+        "Address2": "Cheltenham, South West, GL50 1, South West, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.897459",
+        "Longitude": "-2.074124"
+    },
+    {
+        "Id": "431457",
+        "Address1": "Rutherglen Rd",
+        "Address2": "Rutherglen, Scotland, G73 1, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.8372",
+        "Longitude": "-4.229"
+    },
+    {
+        "Id": "431476",
+        "Address1": "37 Eccleston Square",
+        "Address2": "London, London, SW1V 4, Greater London, United Kingdom",
+        "FloorCount": "7",
+        "Latitude": "51.4910739",
+        "Longitude": "-0.1451031"
+    },
+    {
+        "Id": "431497",
+        "Address1": "A96",
+        "Address2": "Aberdeen, Scotland, AB21 9, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "57.18676",
+        "Longitude": "-2.200969"
+    },
+    {
+        "Id": "431508",
+        "Address1": "2-5 Westbourne Ter",
+        "Address2": "London, London, W2 1, Greater London, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.5140704",
+        "Longitude": "-0.1762363"
+    },
+    {
+        "Id": "431509",
+        "Address1": "10-12 Bina Gardens",
+        "Address2": "London, London, SW5 0, Greater London, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "51.4913911",
+        "Longitude": "-0.1831097"
+    },
+    {
+        "Id": "432481",
+        "Address1": "15-17 Glenfield Rd",
+        "Address2": "East Kilbride, Scotland, G75 0, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.7499909",
+        "Longitude": "-4.1596218"
+    },
+    {
+        "Id": "432483",
+        "Address1": "McDonald Rd",
+        "Address2": "Edinburgh, Scotland, EH7 4, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.964037",
+        "Longitude": "-3.18546"
+    },
+    {
+        "Id": "432486",
+        "Address1": "Cleeve Rd",
+        "Address2": "Leatherhead, South East, KT22 7, South East, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.30308",
+        "Longitude": "-0.336558"
+    },
+    {
+        "Id": "432487",
+        "Address1": "Vanwall Rd",
+        "Address2": "Maidenhead, South East, SL6 4, South East, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.511453",
+        "Longitude": "-0.74632"
+    },
+    {
+        "Id": "431510",
+        "Address1": "75 Sloane St",
+        "Address2": "London, London, SW1X 0, Greater London, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.4969372",
+        "Longitude": "-0.1592614"
+    },
+    {
+        "Id": "431511",
+        "Address1": "115 Sloane St",
+        "Address2": "London, London, SW1X 0, Greater London, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.494707",
+        "Longitude": "-0.158793"
+    },
+    {
+        "Id": "431520",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "432488",
+        "Address1": "34 Upper Queen St",
+        "Address2": "Belfast, Northern Ireland, BT1 6, Northern Ireland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "54.596806",
+        "Longitude": "-5.93331"
+    },
+    {
+        "Id": "432492",
+        "Address1": "242-244 St John St",
+        "Address2": "London, London, EC1V 4, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.5257878",
+        "Longitude": "-0.1036594"
+    },
+    {
+        "Id": "432494",
+        "Address1": "20-25 Glasshouse Yard",
+        "Address2": "London, London, EC1M 6, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.5214919",
+        "Longitude": "-0.0979326"
+    },
+    {
+        "Id": "432495",
+        "Address1": "10-11 Clerkenwell Green",
+        "Address2": "London, London, EC1R 0, Greater London, United Kingdom",
+        "FloorCount": "4",
+        "Latitude": "51.52298908",
+        "Longitude": "-0.104728852"
+    },
+    {
+        "Id": "431521",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "431551",
+        "Address1": "123 Buckingham Palace Rd",
+        "Address2": "London, London, SW1W 9, Greater London, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "51.49349143",
+        "Longitude": "-0.146308972"
+    },
+    {
+        "Id": "431559",
+        "Address1": "15-25 Artillery Ln",
+        "Address2": "London, London, EC2M 4, Greater London, United Kingdom",
+        "FloorCount": "4",
+        "Latitude": "51.51856042",
+        "Longitude": "-0.078303691"
+    },
+    {
+        "Id": "434564",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "434725",
+        "Address1": "66-67 Sun Ct",
+        "Address2": "London, London, EC3V 3, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.5135841",
+        "Longitude": "-0.0847962"
+    },
+    {
+        "Id": "434726",
+        "Address1": "232 Vauxhall Bridge Rd",
+        "Address2": "London, London, SW1V 1, Greater London, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.49421748",
+        "Longitude": "-0.140538316"
+    },
+    {
+        "Id": "434728",
+        "Address1": "160 New Bond St",
+        "Address2": "London, London, W1S 2, Greater London, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.510493",
+        "Longitude": "-0.143054"
+    },
+    {
+        "Id": "433152",
+        "Address1": "Charlotte Pl",
+        "Address2": "Southampton, South East, SO14 0, South East, United Kingdom",
+        "FloorCount": "12",
+        "Latitude": "50.910727",
+        "Longitude": "-1.401366"
+    },
+    {
+        "Id": "433153",
+        "Address1": "46-52 Exeter St",
+        "Address2": "Plymouth, South West, PL4 0, South West, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "50.3714936",
+        "Longitude": "-4.1347372"
+    },
+    {
+        "Id": "433155",
+        "Address1": "Scotswood Rd",
+        "Address2": "Newcastle, North East, NE1 4, Yorkshire/NE, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "54.96602",
+        "Longitude": "-1.622144"
+    },
+    {
+        "Id": "431575",
+        "Address1": "Pond St",
+        "Address2": "Sheffield, Yorkshire and The Humber, S1 2, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "53.3808",
+        "Longitude": "-1.4649"
+    },
+    {
+        "Id": "431608",
+        "Address1": "5 Savile Row",
+        "Address2": "London, London, W1S 3, Greater London, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.5105239",
+        "Longitude": "-0.1398818"
+    },
+    {
+        "Id": "431612",
+        "Address1": "Between Towns Rd",
+        "Address2": "Oxford, South East, OX4 3, South East, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "51.733042",
+        "Longitude": "-1.217583"
+    },
+    {
+        "Id": "433156",
+        "Address1": "Midsummer Blvd",
+        "Address2": "Milton Keynes, South East, MK9 2, South East, United Kingdom",
+        "FloorCount": "11",
+        "Latitude": "52.038211",
+        "Longitude": "-0.763798"
+    },
+    {
+        "Id": "433157",
+        "Address1": "56 Great Bridgewater St",
+        "Address2": "Manchester, North West, M1 5, Manchester/NW, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "53.4748696",
+        "Longitude": "-2.2460749"
+    },
+    {
+        "Id": "433158",
+        "Address1": "60 Pentonville Rd",
+        "Address2": "London, London, N1 9, Greater London, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.5322103",
+        "Longitude": "-0.1093659"
+    },
+    {
+        "Id": "434731",
+        "Address1": "1 Jubilee Way",
+        "Address2": "West Malling, South East, ME19 4, South East, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.2804394",
+        "Longitude": "0.4044934"
+    },
+    {
+        "Id": "434732",
+        "Address1": "40-42 Chapel Market",
+        "Address2": "London, London, N1 0, Greater London, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "51.5339199",
+        "Longitude": "-0.107095"
+    },
+    {
+        "Id": "434733",
+        "Address1": "Quinn Close",
+        "Address2": "Coventry, West Midlands, CV3 4, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "52.392955",
+        "Longitude": "-1.478189"
+    },
+    {
+        "Id": "431614",
+        "Address1": "Castle Close",
+        "Address2": "Barnsley, Yorkshire and The Humber, S71 2, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "53.5616",
+        "Longitude": "-1.4592"
+    },
+    {
+        "Id": "431642",
+        "Address1": "27 Austin Friars",
+        "Address2": "London, London, EC2N 2, Greater London, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "51.5151088",
+        "Longitude": "-0.0857278"
+    },
+    {
+        "Id": "431672",
+        "Address1": "Greenfield Rd",
+        "Address2": "Royston, East of England, SG8 5, East of England, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "52.053025",
+        "Longitude": "-0.03914"
+    },
+    {
+        "Id": "433159",
+        "Address1": "Imperial Rd",
+        "Address2": "London, London, SW6 2, Greater London, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "51.474288",
+        "Longitude": "-0.184143"
+    },
+    {
+        "Id": "433161",
+        "Address1": "245 Broad St",
+        "Address2": "Birmingham, West Midlands, B1 2, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "18",
+        "Latitude": "52.4766876",
+        "Longitude": "-1.9113925"
+    },
+    {
+        "Id": "433162",
+        "Address1": "Fisherwick Pl",
+        "Address2": "Belfast, Northern Ireland, BT1 6, Northern Ireland, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "54.596105",
+        "Longitude": "-5.934961"
+    },
+    {
+        "Id": "434736",
+        "Address1": "Mercury Way",
+        "Address2": "Manchester, North West, M41 7, Manchester/NW, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "53.46505",
+        "Longitude": "-2.334483"
+    },
+    {
+        "Id": "434738",
+        "Address1": "5 Montagu Close",
+        "Address2": "London, London, SE1 9, Greater London, United Kingdom",
+        "FloorCount": "6",
+        "Latitude": "51.50696663",
+        "Longitude": "-0.08981134"
+    },
+    {
+        "Id": "434739",
+        "Address1": "6-8 Tokenhouse Yard",
+        "Address2": "London, London, EC2R 7, Greater London, United Kingdom",
+        "FloorCount": "7",
+        "Latitude": "51.515261",
+        "Longitude": "-0.088157"
+    },
+    {
+        "Id": "431673",
+        "Address1": "Cradock Rd",
+        "Address2": "Luton, East of England, LU4 0, East of England, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.89013762",
+        "Longitude": "-0.48140465"
+    },
+    {
+        "Id": "431674",
+        "Address1": "Troisdorf Way",
+        "Address2": "Redcar, North East, TS10 5, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "54.589955",
+        "Longitude": "-1.08918"
+    },
+    {
+        "Id": "431675",
+        "Address1": "Fisher St",
+        "Address2": "Newcastle, North East, NE6 4, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "54.9795912",
+        "Longitude": "-1.538696922"
+    },
+    {
+        "Id": "433164",
+        "Address1": "Kendell St",
+        "Address2": "Leeds, Yorkshire and The Humber, LS10 1, Yorkshire/NE, United Kingdom",
+        "FloorCount": "10",
+        "Latitude": "53.793413",
+        "Longitude": "-1.538363"
+    },
+    {
+        "Id": "433165",
+        "Address1": "Eastern Perimeter Rd",
+        "Address2": "Hillingdon, London, TW6 2, Greater London, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "51.468258",
+        "Longitude": "-0.419233"
+    },
+    {
+        "Id": "433166",
+        "Address1": "80 Jamaica St",
+        "Address2": "Glasgow, Scotland, G1 4, Scotland, United Kingdom",
+        "FloorCount": "11",
+        "Latitude": "55.8566935",
+        "Longitude": "-4.2575362"
+    },
+    {
+        "Id": "434751",
+        "Address1": "Albert Basin",
+        "Address2": "Newham, London, E16 2, Greater London, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "51.5065",
+        "Longitude": "0.0739"
+    },
+    {
+        "Id": "434762",
+        "Address1": "M9",
+        "Address2": "Broxburn, Scotland, EH29 9, Scotland, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.9578",
+        "Longitude": "-3.4337"
+    },
+    {
+        "Id": "434796",
+        "Address1": "25-29 Market St",
+        "Address2": "Halifax, Yorkshire and The Humber, HX1 1, Yorkshire/NE, United Kingdom",
+        "FloorCount": "4",
+        "Latitude": "53.7223737",
+        "Longitude": "-1.8584908"
+    },
+    {
+        "Id": "431677",
+        "Address1": "Whitley Rd",
+        "Address2": "Newcastle, North East, NE12 9, Yorkshire/NE, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.018563",
+        "Longitude": "-1.542782"
+    },
+    {
+        "Id": "431678",
+        "Address1": "Euston St",
+        "Address2": "Leicester, East Midlands, LE2 7, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "52.61569433",
+        "Longitude": "-1.132589636"
+    },
+    {
+        "Id": "431679",
+        "Address1": "",
+        "Address2": "Ashford in Kent, South East, TN23 1, South East, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "51.1464659",
+        "Longitude": "0.875019"
+    },
+    {
+        "Id": "433168",
+        "Address1": "43 Jeffrey St",
+        "Address2": "Edinburgh, Scotland, EH1 1, Scotland, United Kingdom",
+        "FloorCount": "8",
+        "Latitude": "55.9511331",
+        "Longitude": "-3.1861113"
+    },
+    {
+        "Id": "433172",
+        "Address1": "Wellesley Rd",
+        "Address2": "Croydon, London, CR0 2, Greater London, United Kingdom",
+        "FloorCount": "12",
+        "Latitude": "51.376192",
+        "Longitude": "-0.097727"
+    },
+    {
+        "Id": "433184",
+        "Address1": "Laporte Way",
+        "Address2": "Luton, East of England, LU4 8, East of England, United Kingdom",
+        "FloorCount": "2",
+        "Latitude": "51.887787",
+        "Longitude": "-0.445944"
+    },
+    {
+        "Id": "434827",
+        "Address1": "Bickenhill Ln",
+        "Address2": "Birmingham, West Midlands, B37 7, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "52.458019",
+        "Longitude": "-1.728776"
+    },
+    {
+        "Id": "434925",
+        "Address1": "",
+        "Address2": "United Kingdom",
+        "FloorCount": "",
+        "Latitude": "55.378051",
+        "Longitude": "-3.435973"
+    },
+    {
+        "Id": "435034",
+        "Address1": "Ings Rd",
+        "Address2": "Wakefield, Yorkshire and The Humber, WF2 9, Yorkshire/NE, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "53.680306",
+        "Longitude": "-1.506142"
+    },
+    {
+        "Id": "433188",
+        "Address1": "12-13 Jewry St",
+        "Address2": "Winchester, South East, SO23 8, South East, United Kingdom",
+        "FloorCount": "3",
+        "Latitude": "51.0638623",
+        "Longitude": "-1.3163526"
+    },
+    {
+        "Id": "433192",
+        "Address1": "Wakefield Rd",
+        "Address2": "Leeds, Yorkshire and The Humber, LS26 8, Yorkshire/NE, United Kingdom",
+        "FloorCount": "1,2",
+        "Latitude": "53.734721",
+        "Longitude": "-1.457778"
+    },
+    {
+        "Id": "433224",
+        "Address1": "Nunn Mills Rd",
+        "Address2": "Northampton, East Midlands, NN4 8, Birmingham/Midlands, United Kingdom",
+        "FloorCount": "",
+        "Latitude": "52.230209",
+        "Longitude": "-0.885712"
+    },
+    {
+        "Id": "435063",
+        "Address1": "Glasgow Rd",
+        "Address2": "Dumfries, Scotland, DG2 0, Scotland, United Kingdom",
+        "FloorCount": "1",
+        "Latitude": "55.078625",
+        "Longitude": "-3.621755"
+    },
+    {
+        "Id": "435080",
+        "Address1": "227 Marsh Wall",
+        "Address2": "London, London, E14 9, Greater London, United Kingdom",
+        "FloorCount": "5",
+        "Latitude": "51.49985661",
+        "Longitude": "-0.011046136"
+    }
+]
