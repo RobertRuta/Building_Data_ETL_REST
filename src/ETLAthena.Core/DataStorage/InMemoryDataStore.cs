@@ -28,5 +28,15 @@ namespace ETLAthena.Core.DataStorage
 
             _buildings[building.Id] = building;
         }
+
+        public void UpdateOrCreateBuildings(List<BuildingModel> buildings)
+        {
+            if (buildings == null) return;
+            
+            foreach (BuildingModel building in buildings)
+            {
+                UpdateOrCreateBuilding(building);
+            }
+        }
     }
 }

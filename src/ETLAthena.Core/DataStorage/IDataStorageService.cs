@@ -6,5 +6,6 @@ namespace ETLAthena.Core.DataStorage
         BuildingModel GetBuilding(int id);
         IEnumerable<BuildingModel> GetAllBuildings();
         void UpdateOrCreateBuilding(BuildingModel building);
+        void UpdateOrCreateBuildings(List<BuildingModel> buildings);
     }
 }
