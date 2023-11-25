@@ -1,4 +1,18 @@
-# Savills tech test #
+### The Implementation ###
+
+This section presents the implemented solution of the problem stated in the next section.
+
+## Structure ##
+
+The project structure takes the form of three primary components: the core component, the api component and the tests component.
+
+The Core contains the business logic, data models, services and utility functions; in essence, the core functionality of the project. The core component is designed to be independent of the user interface or API layers, allowing it to be reusable and testable. It also contains Validation, Transformation and Merging subcomponents that house the specific logic for data manipulation split by the data model it peratins to.
+
+The API component serves the Core functionality to a network via a RESTful API. It handles the HTTP requests and responses.
+
+Finally the Core.Tests component contains tests for the Core component.
+
+
 
 ### The problem ###
 
