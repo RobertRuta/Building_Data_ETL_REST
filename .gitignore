@@ -221,6 +221,13 @@ project.lock.json
 # UWP Projects
 AppPackages/
 
+# Custom ignores
+sample_data/*
+sample_data/properties.csv
+!sample_data/S1sample*
+!sample_data/S2sample*
+
+
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
