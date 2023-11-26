@@ -1,5 +1,6 @@
 using ETLAthena.Core.Models;
 using ETLAthena.Core.DataStorage;
+using System.IO;
 
 namespace ETLAthena.Core.Services.Merging
 {
@@ -18,7 +19,6 @@ namespace ETLAthena.Core.Services.Merging
         public void Merge(BuildingModel data)
         {
             BuildingModel existingData = matcher.FindMatchingBuilding(data);
-
             if (existingData != null)
             {
                 UpdateExistingData(existingData, data);
@@ -54,6 +54,7 @@ namespace ETLAthena.Core.Services.Merging
                     existingData.FloorCount = newData.FloorCount ?? existingData.FloorCount;
                     existingData.FloorArea = newData.FloorArea ?? existingData.FloorArea;
                     existingData.DataSource = newData.DataSource;
+                    existingData.IsMerged = true;
                     break;
                 
                 case MatchType.fuzzy:
@@ -66,6 +67,7 @@ namespace ETLAthena.Core.Services.Merging
                     existingData.FloorCount = newData.FloorCount ?? existingData.FloorCount;
                     existingData.FloorArea = newData.FloorArea ?? existingData.FloorArea;
                     existingData.DataSource = newData.DataSource;
+                    existingData.IsMerged = true;
                     break;
                 
                 default:
