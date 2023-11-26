@@ -14,7 +14,7 @@ namespace ETLAthena.Core.Services
         public DataPullService(HttpClient httpClient, IAmazonS3 s3Client, IDataIngestionService dataIngestionService, ILogger<DataPullService> logger)
         {
             _httpClient = httpClient;
-            _s3Client = s3Client;
+            _s3Client = new AmazonS3Client(Amazon.RegionEndpoint.EUCentral1);;
             _dataIngestionService = dataIngestionService;
             _logger = logger;
         }
