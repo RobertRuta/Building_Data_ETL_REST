@@ -1,19 +1,26 @@
+using Amazon.S3;
+using Amazon.S3.Model;
+using System.IO;
+using System.Threading.Tasks;
+
 namespace ETLAthena.Core.Services
 {
     public class DataPullService : IDataPullService
     {
         private readonly HttpClient _httpClient;
+        private readonly IAmazonS3 _s3Client;
         private readonly IDataIngestionService _dataIngestionService;
         private readonly ILogger<DataPullService> _logger;
 
-        public DataPullService(HttpClient httpClient, IDataIngestionService dataIngestionService, ILogger<DataPullService> logger)
+        public DataPullService(HttpClient httpClient, IAmazonS3 s3Client, IDataIngestionService dataIngestionService, ILogger<DataPullService> logger)
         {
             _httpClient = httpClient;
+            _s3Client = s3Client;
             _dataIngestionService = dataIngestionService;
             _logger = logger;
         }
 
-        private async Task PullS1DataFromSourceAsync(string s1ApiEndpoint)
+        public async Task PullS1DataFromSourceAsync(string s1ApiEndpoint)
         {
             try
             {
@@ -35,7 +42,7 @@ namespace ETLAthena.Core.Services
             }
         }
 
-        private async Task PullS2DataFromSourceAsync(string s2ApiEndpoint)
+        public async Task PullS2DataFromSourceAsync(string s2ApiEndpoint)
         {
             try
             {
@@ -54,6 +61,35 @@ namespace ETLAthena.Core.Services
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred while pulling data from source S2.");
+            }
+        }
+
+
+        public async Task PullS1DataFromS3Bucket(string bucketName, string key)
+        {
+            string jsonData = await DownloadFromS3(bucketName, key);
+            _dataIngestionService.IngestDataFromSourceS1(jsonData);
+        }
+
+        public async Task PullS2DataFromS3Bucket(string bucketName, string key)
+        {
+            string jsonData = await DownloadFromS3(bucketName, key);
+            _dataIngestionService.IngestDataFromSourceS2(jsonData);
+        }
+
+        private async Task<string> DownloadFromS3(string bucketName, string key)
+        {
+            var request = new GetObjectRequest
+            {
+                BucketName = bucketName,
+                Key = key
+            };
+
+            using (GetObjectResponse response = await _s3Client.GetObjectAsync(request))
+            using (Stream responseStream = response.ResponseStream)
+            using (StreamReader reader = new StreamReader(responseStream))
+            {
+                return await reader.ReadToEndAsync();
             }
         }
     }    
