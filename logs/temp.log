@@ -19,3 +19,5 @@ System.AggregateException: Some services are not able to be constructed (Error w
    at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
    at Microsoft.Extensions.Hosting.HostBuilder.Build()
    at ETLAthena.API.Program.Main(String[] args) in C:\Users\rober\OneDrive\Documents\_Personal\Code\SavillsRecruitment\tech-test-be-athena-robert-ruta\src\ETLAthena.API\Program.cs:line 25
+2023-11-26 21:23:52.938 +01:00 [INF] Starting web host!
+2023-11-26 21:24:11.441 +01:00 [INF] Web host has closed!
