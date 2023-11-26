@@ -5,6 +5,8 @@ using ETLAthena.Core.Services.Transformation;
 using ETLAthena.Core.Models;
 using ETLAthena.Core.DataStorage;
 using Serilog;
+using Amazon.Extensions.NETCore.Setup;
+using Amazon.S3;
 
 namespace ETLAthena.API;
 public class Program
@@ -81,6 +83,9 @@ public class Startup
 
         // Register ApplicationSettings
         services.AddSingleton(appSettings);
+
+        // Register AWS S3 client
+        services.AddAWSService<IAmazonS3>();
 
         // Register Pull Service
         services.AddHttpClient();
