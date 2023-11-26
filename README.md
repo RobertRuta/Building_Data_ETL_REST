@@ -12,6 +12,41 @@ The API component serves the Core functionality to a network via a RESTful API. 
 
 Finally the Core.Tests component contains tests for the Core component.
 
+### AWS integration ###
+
+An S3 bucket pull service was developed, however, I ran out time when it came to implementing endpoints for it.
+This pull service can be found in ETLAthena.Core/Services/DataPullService.cs or IDataPullService.cs
+
+### Testing ###
+
+The web api application can be launched by executing the command:
+
+`dotnet add src/ETLAthena.Core.Tests/ETLAthena.Core.Tests.csproj reference src/ETLAthena.Core/ETLAthena.Core.csproj`
+
+from the root directory.
+
+
+Some rudementary tests have been implemented. They do not test the full functionality of the core logic, however.
+Test can be run via the dotnet cli:
+dotnet test
+
+A more interactive way to test this web api is via the exposed endpoints:
+
+- [HTML GET] http://.../buildings/all-buildings          --> returns all buildings currently in the data store (in-memory)
+- [HTML POST] http://.../buildings/ingest/push/S1/bulk   --> push S1 data to the data store many json records at a time via the html Body.
+- [HTML POST] http://.../buildings/ingest/push/S2/bulk   --> push S2 data to the data store many json records at a time via the html Body.
+- [HTML POST] http://.../buildings/ingest/push/S1/single --> push S1 data to the data store one json record at a time via the html Body.
+- [HTML POST] http://.../buildings/ingest/push/S2/single --> push S2 data to the data store one json record at a time via the html Body.
+- [HTML POST] http://.../buildings/ingest/pull/S1        --> pull S1 data from API url.
+- [HTML POST] http://.../buildings/ingest/pull/S2        --> pull S2 data from API url.
+
+HTML request can be managed via a tool like Postman, a browser for gets, or something like curl.
+Example pull usage: 
+curl -X POST -H "Content-Type: application/json" -d '{"ApiUrl": "https://example.com/api/data"}' http://localhost:port/ingest/pull/S2.
+
+
+The application is configured to ingest sample data on startup. If the /all-buildings endpoint is accessed after launch without ingesting any data,
+the user will see S1sample2.json data printed to the screen. This configuration can be overridden by simply removing the sample data url from appsettings.json.
 
 
 ## The problem ##
