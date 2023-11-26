@@ -85,12 +85,8 @@ public class Startup
         services.AddSingleton(appSettings);
 
         // Register AWS S3 client
-        services.AddAWSService<IAmazonS3>(new AWSOptions
-        {
-            Region = Amazon.RegionEndpoint.EUCentral1
-        });
+        services.AddAWSService<IAmazonS3>();
 
-        // Register Pull Service
         services.AddHttpClient();
         services.AddScoped<IDataPullService, DataPullService>();
     }
