@@ -1,2 +1,21 @@
 2023-11-26 20:59:22.919 +01:00 [INF] Starting web host!
 2023-11-26 20:59:25.468 +01:00 [INF] Web host has closed!
+2023-11-26 21:14:02.128 +01:00 [INF] Starting web host!
+2023-11-26 21:14:02.304 +01:00 [FTL] Host terminated unexpectedly!
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: ETLAthena.Core.Services.IDataPullService Lifetime: Scoped ImplementationType: ETLAthena.Core.Services.DataPullService': Unable to resolve service for type 'Amazon.S3.IAmazonS3' while attempting to activate 'ETLAthena.Core.Services.DataPullService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: ETLAthena.Core.Services.IDataPullService Lifetime: Scoped ImplementationType: ETLAthena.Core.Services.DataPullService': Unable to resolve service for type 'Amazon.S3.IAmazonS3' while attempting to activate 'ETLAthena.Core.Services.DataPullService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Amazon.S3.IAmazonS3' while attempting to activate 'ETLAthena.Core.Services.DataPullService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at ETLAthena.API.Program.Main(String[] args) in C:\Users\rober\OneDrive\Documents\_Personal\Code\SavillsRecruitment\tech-test-be-athena-robert-ruta\src\ETLAthena.API\Program.cs:line 25
