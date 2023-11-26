@@ -4,13 +4,36 @@ using ETLAthena.Core.Services.Merging;
 using ETLAthena.Core.Services.Transformation;
 using ETLAthena.Core.Models;
 using ETLAthena.Core.DataStorage;
+using Serilog;
+using Amazon.S3;
 
 namespace ETLAthena.API;
 public class Program
 {
     public static void Main(string[] args)
     {
-        CreateHostBuilder(args).Build().Run();
+        string logFilePath = "C:/Users/rober/OneDrive/Documents/_Personal/Code/SavillsRecruitment/tech-test-be-athena-robert-ruta/logs/temp.log";
+        // Configure Serilog
+        Log.Logger = new LoggerConfiguration()
+            .MinimumLevel.Debug()
+            .WriteTo.Console()
+            .WriteTo.File(logFilePath, rollingInterval: RollingInterval.Infinite)
+            .CreateLogger();
+        
+        try
+        {
+            Log.Information("Starting web host!");
+            CreateHostBuilder(args).Build().Run();            
+            Log.Information("Web host has closed!");
+        }
+        catch (Exception ex)
+        {
+            Log.Fatal(ex, "Host terminated unexpectedly!");
+        }
+        finally
+        {
+            Log.CloseAndFlush();
+        }
     }
 
     public static IHostBuilder CreateHostBuilder(string[] args) =>
@@ -59,6 +82,13 @@ public class Startup
 
         // Register ApplicationSettings
         services.AddSingleton(appSettings);
+
+        // Register AWS S3 client
+        services.AddAWSService<IAmazonS3>();
+
+        // Register Pull Service
+        services.AddHttpClient();
+        services.AddScoped<IDataPullService, DataPullService>();
     }
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IDataStorageService dataStorageService, IDataIngestionService dataIngestionService, IS1Transformer s1Transformer)
