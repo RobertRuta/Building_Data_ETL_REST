@@ -49,3 +49,5 @@ System.AggregateException: Some services are not able to be constructed (Error w
 2023-11-26 22:33:08.346 +01:00 [INF] Web host has closed!
 2023-11-26 22:33:17.487 +01:00 [INF] Starting web host!
 2023-11-26 22:33:32.459 +01:00 [INF] Web host has closed!
+2023-11-26 22:34:54.728 +01:00 [INF] Starting web host!
+2023-11-26 22:35:18.535 +01:00 [INF] Web host has closed!

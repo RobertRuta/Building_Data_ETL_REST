@@ -227,7 +227,7 @@ sample_data/properties.csv
 !sample_data/S1sample*
 !sample_data/S2sample*
 *todo.txt
-*temp.log
+logs/temp.log
 
 
 #####
