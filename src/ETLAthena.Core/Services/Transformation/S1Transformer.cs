@@ -8,9 +8,9 @@ namespace ETLAthena.Core.Services.Transformation
         {
             return new BuildingModel {
                 Id = data.Id,
-                Name = "",
+                Name = null,
                 Address = data.Address1 + ", " + data.Address2,
-                Postcode = "", // TODO: Extract postcode from Address
+                Postcode = null, // TODO: Extract postcode from Address
                 Latitude = data.Lat,
                 Longitude = data.Lon,
                 FloorCount = data.FloorCount,
