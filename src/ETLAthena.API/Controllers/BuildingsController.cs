@@ -13,11 +13,13 @@ namespace ETLAthena.API.Controllers
     {
         private readonly IDataStorageService _dataStorageService;
         private readonly IDataIngestionService _dataIngestionService;
+        private readonly IDataPullService _dataPullService;
 
-        public BuildingsController(IDataStorageService dataStorageService, IDataIngestionService dataIngestionService)
+        public BuildingsController(IDataStorageService dataStorageService, IDataIngestionService dataIngestionService, IDataPullService dataPullService)
         {
             _dataStorageService = dataStorageService;
             _dataIngestionService = dataIngestionService;
+            _dataPullService = dataPullService;
         }
 
         
@@ -29,7 +31,7 @@ namespace ETLAthena.API.Controllers
         }
 
         
-        [HttpPost("ingest/S1/single")]
+        [HttpPost("ingest/push/S1/single")]
         public IActionResult IngestS1Single([FromBody] JsonElement jsonData)
         {
             try
@@ -44,7 +46,7 @@ namespace ETLAthena.API.Controllers
             }
         }
         
-        [HttpPost("ingest/S1/bulk")]
+        [HttpPost("ingest/push/S1/bulk")]
         public IActionResult IngestS1Bulk([FromBody] JsonElement jsonDataList)
         {
             try
@@ -58,9 +60,49 @@ namespace ETLAthena.API.Controllers
                 return BadRequest(ex.Message);
             }
         }
+        
+        // Endpoint to manually trigger the data pull with a specified URL
+        [HttpPost("ingest/pull/S1")]
+        public async Task<IActionResult> PullS1Data([FromBody] DataPullRequest request)
+        {
+            if (string.IsNullOrWhiteSpace(request.ApiUrl))
+            {
+                return BadRequest("API URL is required.");
+            }
+
+            try
+            {
+                await _dataPullService.PullS1DataFromSourceAsync(request.ApiUrl);
+                return Ok($"Data pull initiated successfully for {request.ApiUrl}.");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Error initiating data pull for {request.ApiUrl}: {ex.Message}");
+            }
+        }
+        
+        // Endpoint to manually trigger the data pull with a specified URL
+        [HttpPost("ingest/pull/S2")]
+        public async Task<IActionResult> PullS2Data([FromBody] DataPullRequest request)
+        {
+            if (string.IsNullOrWhiteSpace(request.ApiUrl))
+            {
+                return BadRequest("API URL is required.");
+            }
+
+            try
+            {
+                await _dataPullService.PullS2DataFromSourceAsync(request.ApiUrl);
+                return Ok($"Data pull initiated successfully for {request.ApiUrl}.");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Error initiating data pull for {request.ApiUrl}: {ex.Message}");
+            }
+        }
 
         
-        [HttpPost("ingest/S2/single")]
+        [HttpPost("ingest/push/S2/single")]
         public IActionResult IngestS2Single([FromBody] JsonElement jsonData)
         {
             try
@@ -75,7 +117,7 @@ namespace ETLAthena.API.Controllers
             }
         }
         
-        [HttpPost("ingest/S2/bulk")]
+        [HttpPost("ingest/push/S2/bulk")]
         public IActionResult IngestS2Bulk([FromBody] JsonElement jsonDataList)
         {
             try
@@ -89,5 +131,10 @@ namespace ETLAthena.API.Controllers
                 return BadRequest(ex.Message);
             }
         }
+    }
+
+    public class DataPullRequest
+    {
+        public string ApiUrl { get; set; }
     }
 }
