@@ -11,5 +11,6 @@ namespace ETLAthena.Core.Models
         public int? FloorCount { get; set; }
         public double? FloorArea { get; set; }
         public string? DataSource { get; set; } // To track the source of the last update
+        public bool IsMerged { get; set; } // Specifies whether record has been modified by several data sources
     }
 }

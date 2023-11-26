@@ -16,6 +16,7 @@ namespace ETLAthena.Core.Services.Transformation
                 FloorCount = null,
                 FloorArea = data.FloorArea,
                 DataSource = "S2",
+                IsMerged = false,
             };
         }
 
