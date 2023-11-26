@@ -1,15 +1,9 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using ETLAthena.Core.Services;
 using ETLAthena.Core.Services.Validation;
 using ETLAthena.Core.Services.Merging;
 using ETLAthena.Core.Services.Transformation;
 using ETLAthena.Core.Models;
 using ETLAthena.Core.DataStorage;
-using Newtonsoft.Json;
-using ETLAthena.API.Controllers;
 
 namespace ETLAthena.API;
 public class Program

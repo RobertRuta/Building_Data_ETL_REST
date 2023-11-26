@@ -1,6 +1,5 @@
 using ETLAthena.Core.Models;
 using ETLAthena.Core.DataStorage;
-using System.IO;
 
 namespace ETLAthena.Core.Services.Merging
 {
