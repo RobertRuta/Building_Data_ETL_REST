@@ -1,6 +1,7 @@
 using ETLAthena.Core.Models;
 using ETLAthena.Core.DataStorage;
 using ETLAthena.Core.Services.Merging.Helpers;
+using System.ComponentModel;
 
 namespace ETLAthena.Core.Services.Merging
 {
@@ -54,28 +55,29 @@ namespace ETLAthena.Core.Services.Merging
             int bestPostcodeDistance = int.MaxValue;
             int bestAddressDistance = int.MaxValue;
 
+            int nameThreshold = incomingData.Name != null ? incomingData.Name.Length / 4 : -1;
+            int addressThreshold = incomingData.Address != null ? (int)(incomingData.Address.Length * 0.3f) : -1;
+            int postcodeThreshold = incomingData.Postcode != null ? (int)(incomingData.Postcode.Length * 0.1f) : -1;
+
             foreach (var building in allBuildings)
             {
                 int distanceByName = MergeHelpers.LevenshteinDistance(building.Name, incomingData.Name);
                 int distanceByPostcode = MergeHelpers.LevenshteinDistance(building.Postcode, incomingData.Postcode);
                 int distanceByAddress = MergeHelpers.LevenshteinDistance(building.Address, incomingData.Address);
 
-                // Define thresholds
-                int nameThreshold = incomingData.Name.Length / 4; 
-                int postcodeThreshold = 2; 
-                int addressThreshold = (int)(Math.Max(building.Address.Length, incomingData.Address.Length) * 0.3f);
-
-                if (distanceByName < bestNameDistance && distanceByName <= nameThreshold)
+                if (distanceByName < bestNameDistance)
                 {
                     bestMatchByName = building;
                     bestNameDistance = distanceByName;
                 }
-                else if (distanceByAddress < bestAddressDistance && distanceByAddress <= addressThreshold)
+
+                if (distanceByAddress < bestAddressDistance)
                 {
                     bestMatchByAddress = building;
-                    bestPostcodeDistance = distanceByPostcode;
+                    bestAddressDistance = distanceByAddress;
                 }
-                else if (distanceByPostcode < bestPostcodeDistance && distanceByPostcode <= postcodeThreshold)
+
+                if (distanceByPostcode < bestPostcodeDistance)
                 {
                     bestMatchByPostcode = building;
                     bestPostcodeDistance = distanceByPostcode;
@@ -83,22 +85,22 @@ namespace ETLAthena.Core.Services.Merging
             }
 
             // Decision logic to combine results
-            if (bestMatchByName != null && bestMatchByName == bestMatchByAddress && bestMatchByName == bestMatchByPostcode)
+            if (bestMatchByName != null && bestMatchByName == bestMatchByAddress && bestMatchByName == bestMatchByPostcode && bestNameDistance < nameThreshold)
             {
                 // Strongest match: all attributes point to the same building
                 return bestMatchByName;
             }
-            else if (bestMatchByName != null && bestMatchByName == bestMatchByAddress)
+            else if (bestMatchByName != null && bestMatchByName == bestMatchByAddress && bestNameDistance < nameThreshold)
             {
                 // Next strongest match: name and address match
                 return bestMatchByName;
             }
-            else if (bestMatchByName != null)
+            else if (bestMatchByName != null && bestNameDistance < nameThreshold)
             {
                 // Name match prioritized
                 return bestMatchByName;
             }
-            else if (bestMatchByAddress != null && bestAddressDistance < (int)(bestMatchByAddress.Address.Length * 0.3f))
+            else if (bestMatchByAddress != null && bestAddressDistance < addressThreshold)
             {
                 // Address match
                 return bestMatchByAddress;
@@ -109,7 +111,6 @@ namespace ETLAthena.Core.Services.Merging
                 matchType = MatchType.none;
                 return null;
             }
-
         }
 
         public BuildingModel FindPrimitiveMatchingBuilding(BuildingModel data)
