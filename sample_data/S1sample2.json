@@ -1,0 +1,82 @@
+[
+ {
+  "Id":430177,
+  "Address1":"The Square",
+  "Address2":"Moretonhampstead, South West, United Kingdom",
+  "FloorCount":"3",
+  "Lat":50.660852,
+  "Lon":-3.76498
+ },
+ {
+  "Id":430196,
+  "Address1":"11 Berkeley St",
+  "Address2":"London, London, W1J 8, Greater London, United Kingdom",
+  "FloorCount":"6",
+  "Lat":51.5081594,
+  "Lon":-0.1428097
+ },
+ {
+  "Id":430198,
+  "Address1":"Eddystone Rd",
+  "Address2":"Totton, South East, SO40 2, South East, United Kingdom",
+  "FloorCount":"1",
+  "Lat":50.93432619,
+  "Lon":-1.507109761
+ },
+ {
+  "Id":430732,
+  "Address1":null,
+  "Address2":"United Kingdom",
+  "FloorCount":null,
+  "Lat":55.378051,
+  "Lon":-3.435973
+ },
+ {
+  "Id":430735,
+  "Address1":"25-29 Causeyside St",
+  "Address2":"Paisley, Scotland, PA1 1, Scotland, United Kingdom",
+  "FloorCount":"5",
+  "Lat":55.8438056,
+  "Lon":-4.4232454
+ },
+ {
+  "Id":430849,
+  "Address1":"36 Mill St",
+  "Address2":"Alloa, Scotland, FK10 1, Scotland, United Kingdom",
+  "FloorCount":null,
+  "Lat":56.1147942,
+  "Lon":-3.7913155
+ },
+ {
+  "Id":431859,
+  "Address1":"Science Park S",
+  "Address2":"Warrington, North West, WA3 6, Manchester\/NW, United Kingdom",
+  "FloorCount":"2",
+  "Lat":53.424983,
+  "Lon":-2.527087
+ },
+ {
+  "Id":432032,
+  "Address1":null,
+  "Address2":"United Kingdom",
+  "FloorCount":null,
+  "Lat":55.378051,
+  "Lon":-3.435973
+ },
+ {
+  "Id":432089,
+  "Address1":"Trafalgar Pl",
+  "Address2":"Brighton, South East, BN1 4, South East, United Kingdom",
+  "FloorCount":"6",
+  "Lat":50.828983,
+  "Lon":-0.139687
+ },
+ {
+  "Id":432511,
+  "Address1":"Kent Rd",
+  "Address2":"Southampton, South East, SO17 2, South East, United Kingdom",
+  "FloorCount":null,
+  "Lat":50.9279,
+  "Lon":-1.3836
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "Id":3626637,
+  "Name":"Square",
+  "Address":"Moretonhampstead, South West, TQ13 8, South West, United Kingdom",
+  "Postcode":"TQ13 8",
+  "FloorArea":2928.1151,
+  "Coordinates":[
+   "50.660852",
+   "-3.76498"
+  ]
+ },
+ {
+  "Id":430196,
+  "Name":"Building A",
+  "Address":"11 Berkeley St, London, W1J 8, Greater London, United Kingdom\"",
+  "Postcode":"W1J 8",
+  "FloorArea":351.9981,
+  "Coordinates":[
+   "51.5081594",
+   "-0.1428097"
+  ]
+ },
+ {
+  "Id":1473425,
+  "Name":"Industrial",
+  "Address":null,
+  "Postcode":null,
+  "FloorArea":44503.3734,
+  "Coordinates":[
+   "55.37805",
+   "-3.43597"
+  ]
+ },
+ {
+  "Id":3284269,
+  "Name":"Oyster Royston House",
+  "Address":"34 Upper Queen St",
+  "Postcode":"BT1 6",
+  "FloorArea":null,
+  "Coordinates":[
+   "54.59681",
+   "-5.93331"
+  ]
+ },
+ {
+  "Id":460585,
+  "Name":"ACS House",
+  "Address":"242-244 St John St",
+  "Postcode":"EC1V 4",
+  "FloorArea":410.9896,
+  "Coordinates":[
+   "51.52579",
+   "-0.10366"
+  ]
+ },
+ {
+  "Id":460946,
+  "Name":"Science Building",
+  "Address":"Science Park S, Warrington, North West, WA3 6, Manchester\/NW, United Kingdom",
+  "Postcode":"WA3 6",
+  "FloorArea":12866.65,
+  "Coordinates":[
+   "53.424983",
+   "-2.527087"
+  ]
+ },
+ {
+  "Id":3700661,
+  "Name":"Walker Riverside Units 1-6",
+  "Address":"Fisher St",
+  "Postcode":"NE6 4",
+  "FloorArea":6189.7412,
+  "Coordinates":[
+   "54.97959",
+   "-1.53870"
+  ]
+ },
+ {
+  "Id":1988480,
+  "Name":"Jurys Inn Leeds",
+  "Address":"Kendell St",
+  "Postcode":"LS10 1",
+  "FloorArea":null,
+  "Coordinates":[
+   "53.79341",
+   "-1.53836"
+  ]
+ },
+ {
+  "Id":913717,
+  "Name":"Jurys Inn Heathrow",
+  "Address":"Eastern Perimeter Rd",
+  "Postcode":"TW6 2",
+  "FloorArea":null,
+  "Coordinates":[
+   "51.46826",
+   "-0.41923"
+  ]
+ },
+ {
+  "Id":1523741,
+  "Name":"Jurys Inn Glasgow",
+  "Address":"80 Jamaica St",
+  "Postcode":"G1 4",
+  "FloorArea":null,
+  "Coordinates":[
+   "55.85669",
+   "-4.25754"
+  ]
+ }
+]
