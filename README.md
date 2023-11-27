@@ -42,7 +42,7 @@ A more interactive way to test this web api is via the exposed endpoints:
 
 HTML request can be managed via a tool like Postman, a browser for gets, or something like curl.
 Example pull usage: 
-curl -X POST -H "Content-Type: application/json" -d '{"ApiUrl": "https://example.com/api/data"}' http://localhost:port/ingest/pull/S2.
+`curl -X POST -H "Content-Type: application/json" -d '{"ApiUrl": "https://example.com/api/data"}' http://localhost:port/ingest/pull/S2`.
 
 
 The application is configured to ingest sample data on startup. If the /all-buildings endpoint is accessed after launch without ingesting any data,
